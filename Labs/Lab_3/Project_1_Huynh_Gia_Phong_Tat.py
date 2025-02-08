@@ -40,3 +40,6 @@ player1 = Player("Arthas", "warrior")
 print(player1)
 player1.take_damage(30)
 player1.use_mana(20)
+
+
+#Example usage
