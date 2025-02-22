@@ -7,7 +7,7 @@ class Demon:
         self.demon_type = demon_type.lower()
         self.set_attribute()
     
-    def set_attributes(self):
+    def set_attribute(self):
         if self.demon_type == "goblin":
             self.health = 80
             self.attack = 120
@@ -39,10 +39,10 @@ class TestDemon(unittest.TestCase):
 
     def test_invalid_demon_type(self):
         with self.assertRaises(ValueError):
-            Demon("Unknown", "unknown")
+            Demon("Invalid demon type", "phantom")
     
     def test_attack_target(self):
-        attacker = Demon("Luc", "Lucifer")
+        attacker = Demon("Luc", "lucifer")
         target = Demon("Phong", "goblin")
         attacker.attack_target(target)
         self.assertEqual(target.health, 30) # 80 - 50 = 30 Since goblin have 80 takes 50 damage from Lucifer demon's type
