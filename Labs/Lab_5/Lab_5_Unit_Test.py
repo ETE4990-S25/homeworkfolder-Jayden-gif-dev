@@ -31,20 +31,21 @@ class Demon:
         target.take_damage(self.attack)
 
 ## Unit Test Begins
+
 class TestDemon(unittest.TestCase):
-    def test_initialization(self):
-        goblin = Demon("Goblin", "goblin")
-        self.assertEqual(goblin.health, 80)
-        self.assertEqual(goblin.attack, 120)
+    def test_initialization(self): ##This test case is to test the initialization of the Demon class
+        goblin = Demon("Bebu", "goblin") ##Creating a goblin object named Bebu
+        self.assertEqual(goblin.health, 80) ##Checking if the health of the goblin is 80
+        self.assertEqual(goblin.attack, 120) ##Checking if the attack of the goblin is 120
 
     def test_invalid_demon_type(self):
-        with self.assertRaises(ValueError):
-            Demon("Invalid demon type", "phantom")
+        with self.assertRaises(ValueError): ##Checking when the demon type is invalid
+            Demon("Invalid demon type", "phantom") ##Checking if raises ValueError is what we expect
     
     def test_attack_target(self):
-        attacker = Demon("Luc", "lucifer")
-        target = Demon("Phong", "goblin")
-        attacker.attack_target(target)
+        attacker = Demon("Luc", "lucifer") ##Creating a Lucifer demon object named Luc that attacks the target
+        target = Demon("Phong", "goblin")  ##Creating a goblin object named Phong that is the target
+        attacker.attack_target(target) ##Lucifer demon attacks the goblin
         self.assertEqual(target.health, 30) # 80 - 50 = 30 Since goblin have 80 takes 50 damage from Lucifer demon's type
 
 if __name__ == "__main__":
