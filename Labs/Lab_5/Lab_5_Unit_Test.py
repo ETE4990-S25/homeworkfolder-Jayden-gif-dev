@@ -34,9 +34,9 @@ class Demon:
 
 class TestDemon(unittest.TestCase):
     def test_initialization(self): ##This test case is to test the initialization of the Demon class
-        goblin = Demon("Bebu", "goblin") ##Creating a goblin object named Bebu
-        self.assertEqual(goblin.health, 80) ##Checking if the health of the goblin is 80
-        self.assertEqual(goblin.attack, 120) ##Checking if the attack of the goblin is 120
+        demon = Demon("Bebu", "goblin") ##Creating a goblin object named Bebu
+        self.assertEqual(demon.health, 80) ##Checking if the health of the goblin is 80
+        self.assertEqual(demon.attack, 120) ##Checking if the attack of the goblin is 120
 
     def test_invalid_demon_type(self):
         with self.assertRaises(ValueError): ##Checking when the demon type is invalid
