@@ -22,5 +22,16 @@ def parseLines(lines):
             numWordMap[int(parts[0])] = parts[1]
         return numWordMap
 
+##I need to determines the pyramid positions by computing which numbers should be used based on the pyramids structure.
+def determinePyramidPositions(numWordMap):
+    pyramidPositions = []
+    row, num = 1, 1
+    while num in numWordMap:
+        pyramidPositions.append(num)
+        row += 1
+        num += row + 1
+    return pyramidPositions
+
+
     
         
