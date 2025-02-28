@@ -32,3 +32,12 @@ class Student(Person):
 def saveToJson(fileName, students):
     with open(fileName, 'w') as file:
         json.dump(students, file, indent=4)
+
+def displayJson(fileName):
+    try:
+        with open(fileName, 'r') as file:
+            data = json.load(file)
+            for student in data:
+                print(student)
+    except FileNotFoundError:
+        print("File not found")
