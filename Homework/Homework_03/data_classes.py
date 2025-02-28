@@ -35,7 +35,7 @@ class Student(Person):
         }
 
 def saveToJson(fileName, students):
-    filePath = os.path.join(os.getcwd(), "Homework/Homework_03", fileName)
+    filePath = os.path.join(os.getcwd(), "Homework\\Homework_03", fileName)
     try:
         with open(filePath, "w") as file:
             json.dump([student.toJson() for student in students], file, indent=4)
@@ -44,7 +44,7 @@ def saveToJson(fileName, students):
         print(f"Error saving file: {e}")
 
 def displayJson(fileName):
-    filePath = os.path.join(os.getcwd(), "Homework/Homework_03", fileName)
+    filePath = os.path.join(os.getcwd(), "Homework\\Homework_03", fileName)
     try:
         with open(filePath, "r") as file:
             data = json.load(file)
