@@ -28,3 +28,7 @@ class Student(Person):
             "Email": self.Email,
             "StudentId": self.StudentId
         }
+    
+def saveToJson(fileName, students):
+    with open(fileName, 'w') as file:
+        json.dump(students, file, indent=4)
