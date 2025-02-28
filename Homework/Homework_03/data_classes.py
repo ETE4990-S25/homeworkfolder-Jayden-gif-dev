@@ -41,3 +41,10 @@ def displayJson(fileName):
                 print(student)
     except FileNotFoundError:
         print("File not found")
+
+if __name__ == "__main__":
+    students = [
+        Student(fake.name(), fake.random_int(min=18, max=30), fake.email(), fake.random_int(min=1000, max=9999)).toJson()
+        for _ in range(5)
+    ]
+    
