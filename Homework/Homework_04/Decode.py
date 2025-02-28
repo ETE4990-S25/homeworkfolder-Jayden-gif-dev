@@ -32,6 +32,24 @@ def determinePyramidPositions(numWordMap):
         num += row + 1
     return pyramidPositions
 
+## Now we extract the message corresponding to the pyramid positions.
+def extractMessage(numWordMap, pyramidPositions):
+    return ''.join([numWordMap[pos] for pos in pyramidPositions if pos in numWordMap])
 
+## Now to decode the message
+## Ties everything together
+def decode(filePath):
+    filePath = validateFilePath(filePath)
+    lines = readFile(filePath)
+    numWordMap = parseLines(lines)
+    pyramidPositions = determinePyramidPositions(numWordMap)
+    return extractMessage(numWordMap, pyramidPositions)
+
+#This set the directory path to the file
+homeworkDir = os.path.join(os.getcwd(), "Homework", "Homework_04")
+messageFilePath = os.path.join(homeworkDir, "SecretMessage.txt")
+
+#Wala! The message is decoded
+print (decode(messageFilePath))
     
         
