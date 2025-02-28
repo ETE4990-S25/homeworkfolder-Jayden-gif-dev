@@ -5,6 +5,7 @@ import os
 def readFile(filePath):
     with open(filePath, 'r') as file:
         return file.readlines()
+
 #Validates if the given file path exists and raises an exception if it does not.
 def validateFilePath(filePath):
     if not os.path.exists(filePath):
@@ -20,7 +21,7 @@ def parseLines(lines):
         parts = line.strip().split()
         if len(parts) == 2:
             numWordMap[int(parts[0])] = parts[1]
-        return numWordMap
+    return numWordMap
 
 ##I need to determines the pyramid positions by computing which numbers should be used based on the pyramids structure.
 def determinePyramidPositions(numWordMap):
@@ -29,12 +30,12 @@ def determinePyramidPositions(numWordMap):
     while num in numWordMap:
         pyramidPositions.append(num)
         row += 1
-        num += row + 1
+        num += row
     return pyramidPositions
 
 ## Now we extract the message corresponding to the pyramid positions.
 def extractMessage(numWordMap, pyramidPositions):
-    return ''.join([numWordMap[pos] for pos in pyramidPositions if pos in numWordMap])
+    return ' '.join([numWordMap[pos] for pos in pyramidPositions if pos in numWordMap])
 
 ## Now to decode the message
 ## Ties everything together
