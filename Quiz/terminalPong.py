@@ -4,26 +4,17 @@ import sys
 import time
 import threading
 import multiprocessing
-import tty
-import termios
+import msvcrt
 from ball import move_ball
 from shared import ball_x, ball_y, paddle1_y, paddle2_y, PADDLE_SIZE
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def get_keypress():
-    fd = sys.stdin.fileno()
-    old_settings = termios.tcgetattr(fd)
-    try:
-        tty.setraw(fd)
-        return sys.stdin.read(1)
-    finally:
-        termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
-
 def handle_input():
+    import msvcrt  # Use msvcrt for Windows key input
     while True:
-        key = get_keypress().lower()
+        key = msvcrt.getch().decode('utf-8').lower()
         if key == 'w' and paddle1_y.value > 1:
             paddle1_y.value -= 1
         elif key == 's' and paddle1_y.value < 16:
