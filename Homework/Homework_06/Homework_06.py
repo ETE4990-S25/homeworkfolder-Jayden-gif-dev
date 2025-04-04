@@ -1,6 +1,7 @@
 from functools import reduce
 
-diablo_heroes = [
+# List of heroes and their scores
+heroes = [
     ("Barbarian", 88),
     ("Sorceress", 76),
     ("Necromancer", 95),
@@ -10,38 +11,56 @@ diablo_heroes = [
     ("Assassin", 91)
 ]
 
-battle_result = lambda score: "Victory" if score >= 50 else "Defeat"
-total_battle_score = reduce(lambda x, y: x + y[1], diablo_heroes, 0)
-ranked_heroes = sorted(diablo_heroes, key=lambda x: x[1], reverse=True)
-victorious_heroes = list(filter(lambda x: x[1] >= 50, diablo_heroes))
+# Determine if a hero wins or loses
+def battle_result(score):
+    return "Victory" if score >= 50 else "Defeat"
 
-graded_heroes = list(map(lambda x: (x[0], x[1], 
-    "S" if x[1] >= 90 else 
-    "A" if x[1] >= 80 else 
-    "B" if x[1] >= 70 else 
-    "C" if x[1] >= 50 else 
-    "F"), diablo_heroes))
+# Total score of all heroes
+total_score = sum(score for _, score in heroes)
 
-ultimate_champion = reduce(lambda x, y: x if x[1] > y[1] else y, diablo_heroes)
-hero_ranks = list(enumerate(ranked_heroes, start=1))
-battle_outcomes = list(zip([h[0] for h in diablo_heroes], map(lambda x: battle_result(x[1]), diablo_heroes)))
+# Sort heroes by score, highest first
+ranked = sorted(heroes, key=lambda x: x[1], reverse=True)
 
-print("\n🔥 **Diablo 2 PvP Ranking System** 🔥\n")
-print("💀 Total PvP Score:", total_battle_score)
+# Filter heroes who won
+victorious = [hero for hero in heroes if hero[1] >= 50]
 
-print("\n🏆 **Ranked Heroes (by PvP Score):**")
-for rank, (name, score) in hero_ranks:
-    print(f"#{rank} - {name}: {score} points")
+# Grading scale using thresholds
+grade_thresholds = {
+    "S": 90,
+    "A": 80,
+    "B": 70,
+    "C": 50,
+    "F": 0
+}
 
-print("\n⚔️ **Victorious Heroes (Score ≥ 50):**")
-print(victorious_heroes)
+def get_grade(score):
+    for grade, threshold in grade_thresholds.items():
+        if score >= threshold:
+            return grade
 
-print("\n📜 **Hero Power Tiers:**")
-for hero in graded_heroes:
-    print(hero)
+graded = [(name, score, get_grade(score)) for name, score in heroes]
 
-print("\n👑 **Ultimate Champion:**", ultimate_champion)
+# Find the hero with the highest score
+top_hero = max(heroes, key=lambda x: x[1])
 
-print("\n⚔️ **Battle Outcomes:**")
-for name, outcome in battle_outcomes:
-    print(f"{name}: {outcome}")
+# Display results
+print("\nDiablo 2 PvP Ranking System\n")
+print("Total PvP Score:", total_score)
+
+print("\nRanked Heroes:")
+for i, (name, score) in enumerate(ranked, start=1):
+    print(f"{i}. {name} - {score} points")
+
+print("\nVictorious Heroes (score ≥ 50):")
+for name, score in victorious:
+    print(f"{name} - {score}")
+
+print("\nHero Grades:")
+for name, score, g in graded:
+    print(f"{name} - {score} points - Grade: {g}")
+
+print("\nTop Hero:", top_hero[0], "with", top_hero[1], "points")
+
+print("\nBattle Results:")
+for name, score in heroes:
+    print(f"{name}: {battle_result(score)}")
