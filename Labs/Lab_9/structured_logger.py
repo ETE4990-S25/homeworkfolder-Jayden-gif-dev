@@ -59,3 +59,4 @@ class structured_logger:
             log_method(message)
 
         # I thought about adding a fallback print but this felt cleaner for now
+        
