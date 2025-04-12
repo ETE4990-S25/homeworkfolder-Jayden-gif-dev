@@ -2,53 +2,60 @@ import logging
 import os
 from datetime import datetime
 
-# I wanted my logs to match the format from the RSVP Agent file,
-# so I created this custom formatter class.
+# Trying to match the RSVP Agent log format
+# Starting with a custom formatter class
 class sample_formatter(logging.Formatter):
     def format(self, record):
-        # I format the timestamp to look like MM/DD HH:MM:SS
+        # Format the timestamp as MM/DD HH:MM:SS
         timestamp = datetime.fromtimestamp(record.created).strftime("%m/%d %H:%M:%S")
-
-        # I pad the log level to 7 characters so everything lines up nicely
+        # Pad the log level so it's always aligned
         level = record.levelname.ljust(7)
-
-        # This part shows the logger name (which includes the component and function)
+        # Build the source field with the logger name
         source = f":{record.name}:"
-
-        # I return everything as one structured log line
+        # Combine all pieces into the final log line
         return f"{timestamp} {level}: {source} {record.getMessage()}"
 
-# I made this class to manage logs for each component in a clean way
+
+# Creating a structured logger that uses the formatter above
 class structured_logger:
+
     def __init__(self, component_name, function_name):
-        # These are just the names for organization
+        # Passing in the component and function names, just going to hold onto these for now
         self.component_name = component_name
         self.function_name = function_name
-
-        # This is where I create the actual logger with a unique name
+        # Logger name needs to be unique, using both names here to make it work
         self.logger = logging.getLogger(f"{component_name}:{function_name}")
-        self.logger.setLevel(logging.DEBUG)
 
-        # This method sets up the file and formatter — I wanted to keep it modular
+        # Going with DEBUG for now, I think that gives me all the log levels
+        self.logger.setLevel(logging.DEBUG)
+        # Had to separate this into its own method to keep things cleaner
         self._setup_handler()
 
+
     def _setup_handler(self):
-        # I make sure the logs directory exists before writing
-        os.makedirs("logs", exist_ok=True)
+        # Needed a folder to hold the logs so they don’t end up everywhere
+        os.makedirs("Logs", exist_ok=True)
 
-        # Each component has its own log file
-        log_file_path = f"logs/{self.component_name}.log"
+        # One log file per component seemed like the easiest way to organize it
+        log_file_path = f"Logs/{self.component_name}.Log"
 
-        # I only want to add a handler if it hasn’t been added already
+        # I kept running into duplicate handlers so this check avoids that
         if not self.logger.handlers:
+            # This part took a while to figure out — I originally had the path wrong
             file_handler = logging.FileHandler(log_file_path)
+
+            # I finally got the formatter to apply correctly after tweaking this line
             formatter = sample_formatter()
             file_handler.setFormatter(formatter)
+            # I remember forgetting to attach this the first time — nothing was logging
             self.logger.addHandler(file_handler)
 
-    # This method is what I actually use to write logs
+
     def log(self, level, message):
-        # I dynamically get the logging method based on level (e.g. info, warning, etc.)
+        # Tried a bunch of ways to get the right log method — this one worked best
         log_method = getattr(self.logger, level.lower(), None)
+        # Without this check, I was getting errors when passing unknown levels
         if log_method:
             log_method(message)
+
+        # I thought about adding a fallback print but this felt cleaner for now
