@@ -17,35 +17,32 @@ def read_log_file(filepath):
         print(f"Couldn't read the file: {e}")
         return []
 
+def parse_log_line(line):
+    # This took from jupyter notebook to get the regex right
+    # I had to tweak the regex a bit to match the log format from sample_formatter
+    pattern = r"^(\d{2}/\d{2} \d{2}:\d{2}:\d{2})\s+(\w+)\s+:(.+?):\s+(.*)$"
+    match = re.match(pattern, line)
+    if match:
+        timestamp, level, name, message = match.groups()
+        return {
+            "timestamp": timestamp.strip(),
+            "level": level.strip(),
+            "name": name.strip(),
+            "message": message.strip()
+        }
+    return None
 
+# I replaced the old split/slice parser with one that uses the new regex parser above.
 def parse_log_lines(log_lines):
     parsed_logs = []
-# This regex is a bit of a mess but it works for now. I might clean it up later.
-# I had to change the regex a bit to match the log format
     for line in log_lines:
-        if len(line.strip()) < 20:
-            continue
-        timestamp = line[:17].strip()
-        remainder = line[17:].strip()
-        if ':' not in remainder:
-            continue
-        level_part, rest = remainder.split(':', 1)
-        level = level_part.strip()
-        if ':' not in rest:
-            continue
-        name_part, message = rest.split(':', 1)
-        name = name_part.strip()
-        message = message.strip()
-        parsed_logs.append({
-            "timestamp": timestamp,
-            "level": level,
-            "name": name,
-            "message": message
-        })
+        entry = parse_log_line(line)
+        if entry:
+            parsed_logs.append(entry)
     return parsed_logs
 
-# This function counts the occurrences of each log level and message, and returns a summary. Took a while to get this right
-# because I was trying to use a list of tuples instead of a dictionary. This way is much cleaner.
+# This function counts the occurrences of each log level and message, and returns a summary.
+# Took a while to get this right — was originally trying to do this with a list of tuples.
 def count_log_levels(parsed_logs):
     summary = defaultdict(lambda: defaultdict(int))
     for entry in parsed_logs:
@@ -53,7 +50,6 @@ def count_log_levels(parsed_logs):
         msg = entry['message']
         summary[level][msg] += 1
     return summary
-
 
 def main():
     # This part is just to make sure the log file is in the right place
@@ -73,8 +69,8 @@ def main():
     print(f"Saving everything to: {log_output_path}")
     with open(log_output_path, 'w', encoding='utf-8') as f:
         json.dump(summary, f, indent=4)
-    print("Done! Should be good to go.")
 
+    print("Done! Should be good to go.")
 
 if __name__ == "__main__":
     main()
