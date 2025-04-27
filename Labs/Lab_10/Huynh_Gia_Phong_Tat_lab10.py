@@ -4,10 +4,19 @@ import threading
 import logging
 import logging.handlers
 import os
+import sys
+import signal
 
-# Initialize Docker client
+# Initialize Docker client from notes
 client = docker.from_env()
 containers = ["adminer", "mysql"]
+stop_event = threading.Event() # I added this to handle graceful shutdown of the script
+
+# Setup signal handler for graceful shutdown, this is for when i keep forgetting to stop the script :')
+def signal_handler(sig, frame):
+    friendly_print("Stopping monitoring and saving logs...")
+    stop_event.set()
+
 
 # Setup logging folder
 if not os.path.exists("logs"):
@@ -50,8 +59,7 @@ def friendly_print(msg):
 # Monitor container health and handle auto-restarts
 def start_shutdown_check():
     threading.current_thread().name = "ContainerMonitor"
-
-    while True:
+    while not stop_event.is_set():
         time.sleep(10)
         friendly_print("Checking containers...")
         
@@ -73,31 +81,45 @@ def start_shutdown_check():
             except Exception as e:
                 system_logger.error(f"Error handling '{container_name}': {e}")
                 friendly_print(f"Issue detected with '{container_name}'. See logs.")
+    
+    friendly_print("Container health check stopped.")
 
 # Continuously stream logs for a container
 def stream_container_logs(container_name):
     threading.current_thread().name = f"LogStreamer-{container_name}"
     container_logger = setup_container_logger(container_name)
 
-    while True:
+    while not stop_event.is_set():
         try:
             container = client.containers.get(container_name)
-            logs = container.logs(stream=True, follow=True)
+            logs = container.attach(stdout=True, stderr=True, stream=True, logs=True)
+
             friendly_print(f"Streaming logs for '{container_name}'...")
 
-            for line in logs:
-                decoded_line = line.decode('utf-8').strip()
-                message = f"[{container_name}] {decoded_line}"
-                print(message)
-                container_logger.info(decoded_line)
+            while not stop_event.is_set():
+                try:
+                    line = next(logs)
+                    decoded_line = line.decode('utf-8').strip()
+                    message = f"[{container_name}] {decoded_line}"
+                    print(message)
+                    container_logger.info(decoded_line)
+                except StopIteration:
+                    break  # No more logs
+                except Exception:
+                    break  # Any read issue, break and retry outside
 
         except Exception as e:
             system_logger.error(f"Failed log streaming for '{container_name}': {e}")
             friendly_print(f"Retrying log stream for '{container_name}' in 5s...")
             time.sleep(5)
 
+    friendly_print(f"Log streaming for '{container_name}' stopped.")
+
+
 # Startup: monitor containers + start log streamers
 if __name__ == "__main__":
+    # Setup Ctrl+C (SIGINT) capture
+    signal.signal(signal.SIGINT, signal_handler)
     friendly_print("Starting logging setup and container monitoring...")
 
     shutdown_thread = threading.Thread(target=start_shutdown_check, daemon=True)
@@ -109,10 +131,12 @@ if __name__ == "__main__":
         t.start()
         log_threads.append(t)
 
+    # Wait for threads to complete
     shutdown_thread.join()
     for t in log_threads:
         t.join()
 
+    friendly_print("All monitoring stopped. Goodbye!")
 # References:
 # Basically I went through these resources to get the code working .......
 # 1. Docker SDK for Python (https://docker-py.readthedocs.io/en/stable/)
