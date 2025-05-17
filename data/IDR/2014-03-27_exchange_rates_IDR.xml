@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Indonesian Rupiah (IDR) (27 Mar 2014)</title>
+	<link>http://www.floatrates.com/currency/idr/</link>
+	<xmlLink>http://www.floatrates.com/daily/idr.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Indonesian Rupiah (IDR) from the Float Rates. Published at 27 Mar 2014.</description>
+	<language>en</language>
+	<baseCurrency>IDR</baseCurrency>
+	<pubDate>Thu, 27 Mar 2014</pubDate>
+	<lastBuildDate>Thu, 27 Mar 2014</lastBuildDate>
+	
+	<item>
+		<title>1 IDR = 0.000088 USD</title>
+		<link>http://www.floatrates.com/idr/usd/</link>
+		<description>1 Indonesian Rupiah = 0.000088 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.000088</exchangeRate>
+		<inverseRate>11,423.746742</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 11,423.746742 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000542 CNY</title>
+		<link>http://www.floatrates.com/idr/cny/</link>
+		<description>1 Indonesian Rupiah = 0.000542 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.000542</exchangeRate>
+		<inverseRate>1,844.423486</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 1,844.423486 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.008936 JPY</title>
+		<link>http://www.floatrates.com/idr/jpy/</link>
+		<description>1 Indonesian Rupiah = 0.008936 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.008936</exchangeRate>
+		<inverseRate>111.902698</inverseRate>
+		<inverseDescription>1 Japanese Yen = 111.902698 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000064 EUR</title>
+		<link>http://www.floatrates.com/idr/eur/</link>
+		<description>1 Indonesian Rupiah = 0.000064 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.000064</exchangeRate>
+		<inverseRate>15,719.996772</inverseRate>
+		<inverseDescription>1 Euro = 15,719.996772 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.093874 KRW</title>
+		<link>http://www.floatrates.com/idr/krw/</link>
+		<description>1 Indonesian Rupiah = 0.093874 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>0.093874</exchangeRate>
+		<inverseRate>10.652534</inverseRate>
+		<inverseDescription>1 South Korean Won = 10.652534 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000111 SGD</title>
+		<link>http://www.floatrates.com/idr/sgd/</link>
+		<description>1 Indonesian Rupiah = 0.000111 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.000111</exchangeRate>
+		<inverseRate>9,032.544033</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 9,032.544033 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000053 GBP</title>
+		<link>http://www.floatrates.com/idr/gbp/</link>
+		<description>1 Indonesian Rupiah = 0.000053 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.000053</exchangeRate>
+		<inverseRate>18,976.063276</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 18,976.063276 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000101 NZD</title>
+		<link>http://www.floatrates.com/idr/nzd/</link>
+		<description>1 Indonesian Rupiah = 0.000101 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.000101</exchangeRate>
+		<inverseRate>9,865.531828</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 9,865.531828 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.002849 THB</title>
+		<link>http://www.floatrates.com/idr/thb/</link>
+		<description>1 Indonesian Rupiah = 0.002849 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.002849</exchangeRate>
+		<inverseRate>351.041567</inverseRate>
+		<inverseDescription>1 Thai Baht = 351.041567 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000288 MYR</title>
+		<link>http://www.floatrates.com/idr/myr/</link>
+		<description>1 Indonesian Rupiah = 0.000288 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.000288</exchangeRate>
+		<inverseRate>3,470.374457</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 3,470.374457 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.005273 INR</title>
+		<link>http://www.floatrates.com/idr/inr/</link>
+		<description>1 Indonesian Rupiah = 0.005273 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.005273</exchangeRate>
+		<inverseRate>189.632367</inverseRate>
+		<inverseDescription>1 Indian Rupee = 189.632367 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 1.000000 IDR</title>
+		<link>http://www.floatrates.com/idr/idr/</link>
+		<description>1 Indonesian Rupiah = 1.000000 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 1.000000 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.002673 TWD</title>
+		<link>http://www.floatrates.com/idr/twd/</link>
+		<description>1 Indonesian Rupiah = 0.002673 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>0.002673</exchangeRate>
+		<inverseRate>374.122556</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 374.122556 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000679 HKD</title>
+		<link>http://www.floatrates.com/idr/hkd/</link>
+		<description>1 Indonesian Rupiah = 0.000679 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.000679</exchangeRate>
+		<inverseRate>1,472.420996</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 1,472.420996 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000322 AED</title>
+		<link>http://www.floatrates.com/idr/aed/</link>
+		<description>1 Indonesian Rupiah = 0.000322 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.000322</exchangeRate>
+		<inverseRate>3,110.347407</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 3,110.347407 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000078 CHF</title>
+		<link>http://www.floatrates.com/idr/chf/</link>
+		<description>1 Indonesian Rupiah = 0.000078 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.000078</exchangeRate>
+		<inverseRate>12,895.159881</inverseRate>
+		<inverseDescription>1 Swiss Franc = 12,895.159881 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000097 CAD</title>
+		<link>http://www.floatrates.com/idr/cad/</link>
+		<description>1 Indonesian Rupiah = 0.000097 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.000097</exchangeRate>
+		<inverseRate>10,311.438291</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 10,311.438291 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.003935 PHP</title>
+		<link>http://www.floatrates.com/idr/php/</link>
+		<description>1 Indonesian Rupiah = 0.003935 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.003935</exchangeRate>
+		<inverseRate>254.125832</inverseRate>
+		<inverseDescription>1 Philippine Peso = 254.125832 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000935 ZAR</title>
+		<link>http://www.floatrates.com/idr/zar/</link>
+		<description>1 Indonesian Rupiah = 0.000935 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.000935</exchangeRate>
+		<inverseRate>1,069.995335</inverseRate>
+		<inverseDescription>1 South African Rand = 1,069.995335 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000095 AUD</title>
+		<link>http://www.floatrates.com/idr/aud/</link>
+		<description>1 Indonesian Rupiah = 0.000095 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.000095</exchangeRate>
+		<inverseRate>10,559.448516</inverseRate>
+		<inverseDescription>1 Australian Dollar = 10,559.448516 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.006843 DZD</title>
+		<link>http://www.floatrates.com/idr/dzd/</link>
+		<description>1 Indonesian Rupiah = 0.006843 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.006843</exchangeRate>
+		<inverseRate>146.134734</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 146.134734 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000774 BWP</title>
+		<link>http://www.floatrates.com/idr/bwp/</link>
+		<description>1 Indonesian Rupiah = 0.000774 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.000774</exchangeRate>
+		<inverseRate>1,292.025757</inverseRate>
+		<inverseDescription>1 Botswana Pula = 1,292.025757 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000111 BND</title>
+		<link>http://www.floatrates.com/idr/bnd/</link>
+		<description>1 Indonesian Rupiah = 0.000111 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.000111</exchangeRate>
+		<inverseRate>9,031.343776</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 9,031.343776 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.048534 CLP</title>
+		<link>http://www.floatrates.com/idr/clp/</link>
+		<description>1 Indonesian Rupiah = 0.048534 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>0.048534</exchangeRate>
+		<inverseRate>20.604131</inverseRate>
+		<inverseDescription>1 Chilean Peso = 20.604131 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.172316 COP</title>
+		<link>http://www.floatrates.com/idr/cop/</link>
+		<description>1 Indonesian Rupiah = 0.172316 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>0.172316</exchangeRate>
+		<inverseRate>5.803300</inverseRate>
+		<inverseDescription>1 Colombian Peso = 5.803300 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.001744 CZK</title>
+		<link>http://www.floatrates.com/idr/czk/</link>
+		<description>1 Indonesian Rupiah = 0.001744 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.001744</exchangeRate>
+		<inverseRate>573.380789</inverseRate>
+		<inverseDescription>1 Czech Koruna = 573.380789 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000475 DKK</title>
+		<link>http://www.floatrates.com/idr/dkk/</link>
+		<description>1 Indonesian Rupiah = 0.000475 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.000475</exchangeRate>
+		<inverseRate>2,104.079512</inverseRate>
+		<inverseDescription>1 Danish Krone = 2,104.079512 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.019846 HUF</title>
+		<link>http://www.floatrates.com/idr/huf/</link>
+		<description>1 Indonesian Rupiah = 0.019846 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>0.019846</exchangeRate>
+		<inverseRate>50.387650</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 50.387650 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.009898 ISK</title>
+		<link>http://www.floatrates.com/idr/isk/</link>
+		<description>1 Indonesian Rupiah = 0.009898 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>0.009898</exchangeRate>
+		<inverseRate>101.032098</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 101.032098 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000307 ILS</title>
+		<link>http://www.floatrates.com/idr/ils/</link>
+		<description>1 Indonesian Rupiah = 0.000307 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.000307</exchangeRate>
+		<inverseRate>3,262.137148</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 3,262.137148 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.015936 KZT</title>
+		<link>http://www.floatrates.com/idr/kzt/</link>
+		<description>1 Indonesian Rupiah = 0.015936 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>0.015936</exchangeRate>
+		<inverseRate>62.750600</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 62.750600 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000025 KWD</title>
+		<link>http://www.floatrates.com/idr/kwd/</link>
+		<description>1 Indonesian Rupiah = 0.000025 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.000025</exchangeRate>
+		<inverseRate>40,581.693577</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 40,581.693577 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000169 LYD</title>
+		<link>http://www.floatrates.com/idr/lyd/</link>
+		<description>1 Indonesian Rupiah = 0.000169 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.000169</exchangeRate>
+		<inverseRate>5,911.688440</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 5,911.688440 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.002631 MUR</title>
+		<link>http://www.floatrates.com/idr/mur/</link>
+		<description>1 Indonesian Rupiah = 0.002631 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.002631</exchangeRate>
+		<inverseRate>380.149106</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 380.149106 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.008424 NPR</title>
+		<link>http://www.floatrates.com/idr/npr/</link>
+		<description>1 Indonesian Rupiah = 0.008424 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.008424</exchangeRate>
+		<inverseRate>118.712945</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 118.712945 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000526 NOK</title>
+		<link>http://www.floatrates.com/idr/nok/</link>
+		<description>1 Indonesian Rupiah = 0.000526 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.000526</exchangeRate>
+		<inverseRate>1,901.298941</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 1,901.298941 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000034 OMR</title>
+		<link>http://www.floatrates.com/idr/omr/</link>
+		<description>1 Indonesian Rupiah = 0.000034 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.000034</exchangeRate>
+		<inverseRate>29,710.654726</inverseRate>
+		<inverseDescription>1 Omani Rial = 29,710.654726 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.008573 PKR</title>
+		<link>http://www.floatrates.com/idr/pkr/</link>
+		<description>1 Indonesian Rupiah = 0.008573 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.008573</exchangeRate>
+		<inverseRate>116.639272</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 116.639272 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000266 PLN</title>
+		<link>http://www.floatrates.com/idr/pln/</link>
+		<description>1 Indonesian Rupiah = 0.000266 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.000266</exchangeRate>
+		<inverseRate>3,763.587727</inverseRate>
+		<inverseDescription>1 Polish Zloty = 3,763.587727 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000319 QAR</title>
+		<link>http://www.floatrates.com/idr/qar/</link>
+		<description>1 Indonesian Rupiah = 0.000319 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.000319</exchangeRate>
+		<inverseRate>3,138.391962</inverseRate>
+		<inverseDescription>1 Qatari Rial = 3,138.391962 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.003117 RUB</title>
+		<link>http://www.floatrates.com/idr/rub/</link>
+		<description>1 Indonesian Rupiah = 0.003117 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.003117</exchangeRate>
+		<inverseRate>320.810329</inverseRate>
+		<inverseDescription>1 Russian Rouble = 320.810329 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000328 SAR</title>
+		<link>http://www.floatrates.com/idr/sar/</link>
+		<description>1 Indonesian Rupiah = 0.000328 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.000328</exchangeRate>
+		<inverseRate>3,046.332465</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 3,046.332465 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.011440 LKR</title>
+		<link>http://www.floatrates.com/idr/lkr/</link>
+		<description>1 Indonesian Rupiah = 0.011440 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.011440</exchangeRate>
+		<inverseRate>87.409475</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 87.409475 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000567 SEK</title>
+		<link>http://www.floatrates.com/idr/sek/</link>
+		<description>1 Indonesian Rupiah = 0.000567 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.000567</exchangeRate>
+		<inverseRate>1,762.647868</inverseRate>
+		<inverseDescription>1 Swedish Krona = 1,762.647868 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000561 TTD</title>
+		<link>http://www.floatrates.com/idr/ttd/</link>
+		<description>1 Indonesian Rupiah = 0.000561 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.000561</exchangeRate>
+		<inverseRate>1,782.696946</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 1,782.696946 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000551 VEF</title>
+		<link>http://www.floatrates.com/idr/vef/</link>
+		<description>1 Indonesian Rupiah = 0.000551 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.000551</exchangeRate>
+		<inverseRate>1,815.525135</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 1,815.525135 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000124 BGN</title>
+		<link>http://www.floatrates.com/idr/bgn/</link>
+		<description>1 Indonesian Rupiah = 0.000124 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.000124</exchangeRate>
+		<inverseRate>8,035.990780</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 8,035.990780 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000220 LTL</title>
+		<link>http://www.floatrates.com/idr/ltl/</link>
+		<description>1 Indonesian Rupiah = 0.000220 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.000220</exchangeRate>
+		<inverseRate>4,551.897233</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 4,551.897233 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000285 RON</title>
+		<link>http://www.floatrates.com/idr/ron/</link>
+		<description>1 Indonesian Rupiah = 0.000285 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.000285</exchangeRate>
+		<inverseRate>3,514.810267</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 3,514.810267 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000488 HRK</title>
+		<link>http://www.floatrates.com/idr/hrk/</link>
+		<description>1 Indonesian Rupiah = 0.000488 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.000488</exchangeRate>
+		<inverseRate>2,050.925693</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 2,050.925693 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000191 TRY</title>
+		<link>http://www.floatrates.com/idr/try/</link>
+		<description>1 Indonesian Rupiah = 0.000191 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.000191</exchangeRate>
+		<inverseRate>5,225.648060</inverseRate>
+		<inverseDescription>1 Turkish Lira = 5,225.648060 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000199 BRL</title>
+		<link>http://www.floatrates.com/idr/brl/</link>
+		<description>1 Indonesian Rupiah = 0.000199 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.000199</exchangeRate>
+		<inverseRate>5,019.436908</inverseRate>
+		<inverseDescription>1 Brazilian Real = 5,019.436908 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.001146 MXN</title>
+		<link>http://www.floatrates.com/idr/mxn/</link>
+		<description>1 Indonesian Rupiah = 0.001146 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.001146</exchangeRate>
+		<inverseRate>872.964315</inverseRate>
+		<inverseDescription>1 Mexican Peso = 872.964315 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000701 ARS</title>
+		<link>http://www.floatrates.com/idr/ars/</link>
+		<description>1 Indonesian Rupiah = 0.000701 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>0.000701</exchangeRate>
+		<inverseRate>1,426.804844</inverseRate>
+		<inverseDescription>1 Argentine Peso = 1,426.804844 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000088 BSD</title>
+		<link>http://www.floatrates.com/idr/bsd/</link>
+		<description>1 Indonesian Rupiah = 0.000088 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.000088</exchangeRate>
+		<inverseRate>11,423.746742</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 11,423.746742 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.041792 XAF</title>
+		<link>http://www.floatrates.com/idr/xaf/</link>
+		<description>1 Indonesian Rupiah = 0.041792 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>0.041792</exchangeRate>
+		<inverseRate>23.928072</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 23.928072 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.007603 XPF</title>
+		<link>http://www.floatrates.com/idr/xpf/</link>
+		<description>1 Indonesian Rupiah = 0.007603 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>0.007603</exchangeRate>
+		<inverseRate>131.521726</inverseRate>
+		<inverseDescription>1 CFP Franc = 131.521726 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000229 XCD</title>
+		<link>http://www.floatrates.com/idr/xcd/</link>
+		<description>1 Indonesian Rupiah = 0.000229 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.000229</exchangeRate>
+		<inverseRate>4,359.892203</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 4,359.892203 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000161 FJD</title>
+		<link>http://www.floatrates.com/idr/fjd/</link>
+		<description>1 Indonesian Rupiah = 0.000161 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.000161</exchangeRate>
+		<inverseRate>6,194.769489</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 6,194.769489 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000232 GHS</title>
+		<link>http://www.floatrates.com/idr/ghs/</link>
+		<description>1 Indonesian Rupiah = 0.000232 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>0.000232</exchangeRate>
+		<inverseRate>4,310.416185</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 4,310.416185 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000689 GTQ</title>
+		<link>http://www.floatrates.com/idr/gtq/</link>
+		<description>1 Indonesian Rupiah = 0.000689 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>0.000689</exchangeRate>
+		<inverseRate>1,451.602629</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 1,451.602629 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.001682 HNL</title>
+		<link>http://www.floatrates.com/idr/hnl/</link>
+		<description>1 Indonesian Rupiah = 0.001682 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>0.001682</exchangeRate>
+		<inverseRate>594.482862</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 594.482862 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.009555 JMD</title>
+		<link>http://www.floatrates.com/idr/jmd/</link>
+		<description>1 Indonesian Rupiah = 0.009555 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>0.009555</exchangeRate>
+		<inverseRate>104.659460</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 104.659460 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000714 MAD</title>
+		<link>http://www.floatrates.com/idr/mad/</link>
+		<description>1 Indonesian Rupiah = 0.000714 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>0.000714</exchangeRate>
+		<inverseRate>1,400.975857</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 1,400.975857 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.084165 MMK</title>
+		<link>http://www.floatrates.com/idr/mmk/</link>
+		<description>1 Indonesian Rupiah = 0.084165 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>0.084165</exchangeRate>
+		<inverseRate>11.881382</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 11.881382 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000155 ANG</title>
+		<link>http://www.floatrates.com/idr/ang/</link>
+		<description>1 Indonesian Rupiah = 0.000155 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>0.000155</exchangeRate>
+		<inverseRate>6,435.552855</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 6,435.552855 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000088 PAB</title>
+		<link>http://www.floatrates.com/idr/pab/</link>
+		<description>1 Indonesian Rupiah = 0.000088 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.000088</exchangeRate>
+		<inverseRate>11,423.746742</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 11,423.746742 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000246 PEN</title>
+		<link>http://www.floatrates.com/idr/pen/</link>
+		<description>1 Indonesian Rupiah = 0.000246 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.000246</exchangeRate>
+		<inverseRate>4,063.414046</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 4,063.414046 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.007338 RSD</title>
+		<link>http://www.floatrates.com/idr/rsd/</link>
+		<description>1 Indonesian Rupiah = 0.007338 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>0.007338</exchangeRate>
+		<inverseRate>136.274307</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 136.274307 Indonesian Rupiah</inverseDescription>
+	</item>
+	<item>
+		<title>1 IDR = 0.000139 TND</title>
+		<link>http://www.floatrates.com/idr/tnd/</link>
+		<description>1 Indonesian Rupiah = 0.000139 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>IDR</baseCurrency>
+		<baseName>Indonesian Rupiah</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.000139</exchangeRate>
+		<inverseRate>7,206.275060</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 7,206.275060 Indonesian Rupiah</inverseDescription>
+	</item>
+</channel>
+
