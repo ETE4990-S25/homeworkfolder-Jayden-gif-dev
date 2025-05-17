@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Kuwaiti Dinar (KWD) (13 Mar 2014)</title>
+	<link>http://www.floatrates.com/currency/kwd/</link>
+	<xmlLink>http://www.floatrates.com/daily/kwd.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Kuwaiti Dinar (KWD) from the Float Rates. Published at 13 Mar 2014.</description>
+	<language>en</language>
+	<baseCurrency>KWD</baseCurrency>
+	<pubDate>Thu, 13 Mar 2014</pubDate>
+	<lastBuildDate>Thu, 13 Mar 2014</lastBuildDate>
+	
+	<item>
+		<title>1 KWD = 3.558719 USD</title>
+		<link>http://www.floatrates.com/kwd/usd/</link>
+		<description>1 Kuwaiti Dinar = 3.558719 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>3.558719</exchangeRate>
+		<inverseRate>0.281000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.281000 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 21.836496 CNY</title>
+		<link>http://www.floatrates.com/kwd/cny/</link>
+		<description>1 Kuwaiti Dinar = 21.836496 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>21.836496</exchangeRate>
+		<inverseRate>0.045795</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.045795 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 365.060303 JPY</title>
+		<link>http://www.floatrates.com/kwd/jpy/</link>
+		<description>1 Kuwaiti Dinar = 365.060303 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>365.060303</exchangeRate>
+		<inverseRate>0.002739</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.002739 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 2.553323 EUR</title>
+		<link>http://www.floatrates.com/kwd/eur/</link>
+		<description>1 Kuwaiti Dinar = 2.553323 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>2.553323</exchangeRate>
+		<inverseRate>0.391647</inverseRate>
+		<inverseDescription>1 Euro = 0.391647 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3,800.521551 KRW</title>
+		<link>http://www.floatrates.com/kwd/krw/</link>
+		<description>1 Kuwaiti Dinar = 3,800.521551 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>3,800.521551</exchangeRate>
+		<inverseRate>0.000263</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.000263 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 4.504993 SGD</title>
+		<link>http://www.floatrates.com/kwd/sgd/</link>
+		<description>1 Kuwaiti Dinar = 4.504993 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>4.504993</exchangeRate>
+		<inverseRate>0.221976</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.221976 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 2.132821 GBP</title>
+		<link>http://www.floatrates.com/kwd/gbp/</link>
+		<description>1 Kuwaiti Dinar = 2.132821 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>2.132821</exchangeRate>
+		<inverseRate>0.468863</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 0.468863 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 4.159860 NZD</title>
+		<link>http://www.floatrates.com/kwd/nzd/</link>
+		<description>1 Kuwaiti Dinar = 4.159860 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>4.159860</exchangeRate>
+		<inverseRate>0.240393</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.240393 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 115.094092 THB</title>
+		<link>http://www.floatrates.com/kwd/thb/</link>
+		<description>1 Kuwaiti Dinar = 115.094092 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>115.094092</exchangeRate>
+		<inverseRate>0.008689</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.008689 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 11.657183 MYR</title>
+		<link>http://www.floatrates.com/kwd/myr/</link>
+		<description>1 Kuwaiti Dinar = 11.657183 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>11.657183</exchangeRate>
+		<inverseRate>0.085784</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.085784 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 217.338461 INR</title>
+		<link>http://www.floatrates.com/kwd/inr/</link>
+		<description>1 Kuwaiti Dinar = 217.338461 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>217.338461</exchangeRate>
+		<inverseRate>0.004601</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.004601 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 40,524.717214 IDR</title>
+		<link>http://www.floatrates.com/kwd/idr/</link>
+		<description>1 Kuwaiti Dinar = 40,524.717214 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>40,524.717214</exchangeRate>
+		<inverseRate>0.000025</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000025 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 107.904441 TWD</title>
+		<link>http://www.floatrates.com/kwd/twd/</link>
+		<description>1 Kuwaiti Dinar = 107.904441 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>107.904441</exchangeRate>
+		<inverseRate>0.009267</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.009267 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 27.632727 HKD</title>
+		<link>http://www.floatrates.com/kwd/hkd/</link>
+		<description>1 Kuwaiti Dinar = 27.632727 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>27.632727</exchangeRate>
+		<inverseRate>0.036189</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.036189 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 13.070574 AED</title>
+		<link>http://www.floatrates.com/kwd/aed/</link>
+		<description>1 Kuwaiti Dinar = 13.070574 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>13.070574</exchangeRate>
+		<inverseRate>0.076508</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.076508 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3.103722 CHF</title>
+		<link>http://www.floatrates.com/kwd/chf/</link>
+		<description>1 Kuwaiti Dinar = 3.103722 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>3.103722</exchangeRate>
+		<inverseRate>0.322194</inverseRate>
+		<inverseDescription>1 Swiss Franc = 0.322194 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3.940383 CAD</title>
+		<link>http://www.floatrates.com/kwd/cad/</link>
+		<description>1 Kuwaiti Dinar = 3.940383 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>3.940383</exchangeRate>
+		<inverseRate>0.253782</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.253782 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 158.524002 PHP</title>
+		<link>http://www.floatrates.com/kwd/php/</link>
+		<description>1 Kuwaiti Dinar = 158.524002 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>158.524002</exchangeRate>
+		<inverseRate>0.006308</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.006308 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 38.312729 ZAR</title>
+		<link>http://www.floatrates.com/kwd/zar/</link>
+		<description>1 Kuwaiti Dinar = 38.312729 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>38.312729</exchangeRate>
+		<inverseRate>0.026101</inverseRate>
+		<inverseDescription>1 South African Rand = 0.026101 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3.924673 AUD</title>
+		<link>http://www.floatrates.com/kwd/aud/</link>
+		<description>1 Kuwaiti Dinar = 3.924673 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>3.924673</exchangeRate>
+		<inverseRate>0.254798</inverseRate>
+		<inverseDescription>1 Australian Dollar = 0.254798 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 274.393238 DZD</title>
+		<link>http://www.floatrates.com/kwd/dzd/</link>
+		<description>1 Kuwaiti Dinar = 274.393238 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>274.393238</exchangeRate>
+		<inverseRate>0.003644</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.003644 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 31.409699 BWP</title>
+		<link>http://www.floatrates.com/kwd/bwp/</link>
+		<description>1 Kuwaiti Dinar = 31.409699 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>31.409699</exchangeRate>
+		<inverseRate>0.031837</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.031837 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 4.507473 BND</title>
+		<link>http://www.floatrates.com/kwd/bnd/</link>
+		<description>1 Kuwaiti Dinar = 4.507473 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>4.507473</exchangeRate>
+		<inverseRate>0.221854</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.221854 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 2,035.194793 CLP</title>
+		<link>http://www.floatrates.com/kwd/clp/</link>
+		<description>1 Kuwaiti Dinar = 2,035.194793 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>2,035.194793</exchangeRate>
+		<inverseRate>0.000491</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.000491 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 7,286.819787 COP</title>
+		<link>http://www.floatrates.com/kwd/cop/</link>
+		<description>1 Kuwaiti Dinar = 7,286.819787 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>7,286.819787</exchangeRate>
+		<inverseRate>0.000137</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000137 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 69.832486 CZK</title>
+		<link>http://www.floatrates.com/kwd/czk/</link>
+		<description>1 Kuwaiti Dinar = 69.832486 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>69.832486</exchangeRate>
+		<inverseRate>0.014320</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.014320 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 19.059802 DKK</title>
+		<link>http://www.floatrates.com/kwd/dkk/</link>
+		<description>1 Kuwaiti Dinar = 19.059802 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>19.059802</exchangeRate>
+		<inverseRate>0.052466</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.052466 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 797.238501 HUF</title>
+		<link>http://www.floatrates.com/kwd/huf/</link>
+		<description>1 Kuwaiti Dinar = 797.238501 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>797.238501</exchangeRate>
+		<inverseRate>0.001254</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.001254 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 399.450830 ISK</title>
+		<link>http://www.floatrates.com/kwd/isk/</link>
+		<description>1 Kuwaiti Dinar = 399.450830 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>399.450830</exchangeRate>
+		<inverseRate>0.002503</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.002503 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 648.042705 KZT</title>
+		<link>http://www.floatrates.com/kwd/kzt/</link>
+		<description>1 Kuwaiti Dinar = 648.042705 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>648.042705</exchangeRate>
+		<inverseRate>0.001543</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.001543 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 1.000000 KWD</title>
+		<link>http://www.floatrates.com/kwd/kwd/</link>
+		<description>1 Kuwaiti Dinar = 1.000000 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 1.000000 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 6.876868 LYD</title>
+		<link>http://www.floatrates.com/kwd/lyd/</link>
+		<description>1 Kuwaiti Dinar = 6.876868 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>6.876868</exchangeRate>
+		<inverseRate>0.145415</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.145415 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 106.728826 MUR</title>
+		<link>http://www.floatrates.com/kwd/mur/</link>
+		<description>1 Kuwaiti Dinar = 106.728826 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>106.728826</exchangeRate>
+		<inverseRate>0.009370</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.009370 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 348.576512 NPR</title>
+		<link>http://www.floatrates.com/kwd/npr/</link>
+		<description>1 Kuwaiti Dinar = 348.576512 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>348.576512</exchangeRate>
+		<inverseRate>0.002869</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.002869 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 21.090483 NOK</title>
+		<link>http://www.floatrates.com/kwd/nok/</link>
+		<description>1 Kuwaiti Dinar = 21.090483 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>21.090483</exchangeRate>
+		<inverseRate>0.047415</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.047415 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 1.368327 OMR</title>
+		<link>http://www.floatrates.com/kwd/omr/</link>
+		<description>1 Kuwaiti Dinar = 1.368327 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>1.368327</exchangeRate>
+		<inverseRate>0.730819</inverseRate>
+		<inverseDescription>1 Omani Rial = 0.730819 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 350.697269 PKR</title>
+		<link>http://www.floatrates.com/kwd/pkr/</link>
+		<description>1 Kuwaiti Dinar = 350.697269 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>350.697269</exchangeRate>
+		<inverseRate>0.002851</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.002851 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 10.792033 PLN</title>
+		<link>http://www.floatrates.com/kwd/pln/</link>
+		<description>1 Kuwaiti Dinar = 10.792033 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>10.792033</exchangeRate>
+		<inverseRate>0.092661</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.092661 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 12.953737 QAR</title>
+		<link>http://www.floatrates.com/kwd/qar/</link>
+		<description>1 Kuwaiti Dinar = 12.953737 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>12.953737</exchangeRate>
+		<inverseRate>0.077198</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.077198 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 129.779997 RUB</title>
+		<link>http://www.floatrates.com/kwd/rub/</link>
+		<description>1 Kuwaiti Dinar = 129.779997 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>129.779997</exchangeRate>
+		<inverseRate>0.007705</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.007705 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 13.345196 SAR</title>
+		<link>http://www.floatrates.com/kwd/sar/</link>
+		<description>1 Kuwaiti Dinar = 13.345196 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>13.345196</exchangeRate>
+		<inverseRate>0.074933</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.074933 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 464.884398 LKR</title>
+		<link>http://www.floatrates.com/kwd/lkr/</link>
+		<description>1 Kuwaiti Dinar = 464.884398 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>464.884398</exchangeRate>
+		<inverseRate>0.002151</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.002151 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 22.591436 SEK</title>
+		<link>http://www.floatrates.com/kwd/sek/</link>
+		<description>1 Kuwaiti Dinar = 22.591436 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>22.591436</exchangeRate>
+		<inverseRate>0.044265</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.044265 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 22.794577 TTD</title>
+		<link>http://www.floatrates.com/kwd/ttd/</link>
+		<description>1 Kuwaiti Dinar = 22.794577 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>22.794577</exchangeRate>
+		<inverseRate>0.043870</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.043870 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 5.595902 TND</title>
+		<link>http://www.floatrates.com/kwd/tnd/</link>
+		<description>1 Kuwaiti Dinar = 5.595902 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>5.595902</exchangeRate>
+		<inverseRate>0.178702</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.178702 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 22.392366 VEF</title>
+		<link>http://www.floatrates.com/kwd/vef/</link>
+		<description>1 Kuwaiti Dinar = 22.392366 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>22.392366</exchangeRate>
+		<inverseRate>0.044658</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.044658 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 4.992212 BGN</title>
+		<link>http://www.floatrates.com/kwd/bgn/</link>
+		<description>1 Kuwaiti Dinar = 4.992212 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>4.992212</exchangeRate>
+		<inverseRate>0.200312</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.200312 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 8.813330 LTL</title>
+		<link>http://www.floatrates.com/kwd/ltl/</link>
+		<description>1 Kuwaiti Dinar = 8.813330 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>8.813330</exchangeRate>
+		<inverseRate>0.113464</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.113464 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 11.513136 RON</title>
+		<link>http://www.floatrates.com/kwd/ron/</link>
+		<description>1 Kuwaiti Dinar = 11.513136 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>11.513136</exchangeRate>
+		<inverseRate>0.086857</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.086857 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 19.561702 HRK</title>
+		<link>http://www.floatrates.com/kwd/hrk/</link>
+		<description>1 Kuwaiti Dinar = 19.561702 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>19.561702</exchangeRate>
+		<inverseRate>0.051120</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.051120 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 7.929963 TRY</title>
+		<link>http://www.floatrates.com/kwd/try/</link>
+		<description>1 Kuwaiti Dinar = 7.929963 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>7.929963</exchangeRate>
+		<inverseRate>0.126104</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.126104 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 8.371502 BRL</title>
+		<link>http://www.floatrates.com/kwd/brl/</link>
+		<description>1 Kuwaiti Dinar = 8.371502 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>8.371502</exchangeRate>
+		<inverseRate>0.119453</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.119453 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 12.316190 ILS</title>
+		<link>http://www.floatrates.com/kwd/ils/</link>
+		<description>1 Kuwaiti Dinar = 12.316190 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>12.316190</exchangeRate>
+		<inverseRate>0.081194</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.081194 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 47.032797 MXN</title>
+		<link>http://www.floatrates.com/kwd/mxn/</link>
+		<description>1 Kuwaiti Dinar = 47.032797 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>47.032797</exchangeRate>
+		<inverseRate>0.021262</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.021262 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 28.066424 ARS</title>
+		<link>http://www.floatrates.com/kwd/ars/</link>
+		<description>1 Kuwaiti Dinar = 28.066424 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>28.066424</exchangeRate>
+		<inverseRate>0.035630</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.035630 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3.558719 BSD</title>
+		<link>http://www.floatrates.com/kwd/bsd/</link>
+		<description>1 Kuwaiti Dinar = 3.558719 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>3.558719</exchangeRate>
+		<inverseRate>0.281000</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 0.281000 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 1,676.563452 XAF</title>
+		<link>http://www.floatrates.com/kwd/xaf/</link>
+		<description>1 Kuwaiti Dinar = 1,676.563452 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>1,676.563452</exchangeRate>
+		<inverseRate>0.000596</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.000596 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 305.030684 XPF</title>
+		<link>http://www.floatrates.com/kwd/xpf/</link>
+		<description>1 Kuwaiti Dinar = 305.030684 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>305.030684</exchangeRate>
+		<inverseRate>0.003278</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.003278 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 9.324520 XCD</title>
+		<link>http://www.floatrates.com/kwd/xcd/</link>
+		<description>1 Kuwaiti Dinar = 9.324520 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>9.324520</exchangeRate>
+		<inverseRate>0.107244</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 0.107244 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 6.631085 FJD</title>
+		<link>http://www.floatrates.com/kwd/fjd/</link>
+		<description>1 Kuwaiti Dinar = 6.631085 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>6.631085</exchangeRate>
+		<inverseRate>0.150805</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.150805 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 9.110855 GHS</title>
+		<link>http://www.floatrates.com/kwd/ghs/</link>
+		<description>1 Kuwaiti Dinar = 9.110855 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>9.110855</exchangeRate>
+		<inverseRate>0.109759</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.109759 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 28.006220 GTQ</title>
+		<link>http://www.floatrates.com/kwd/gtq/</link>
+		<description>1 Kuwaiti Dinar = 28.006220 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>28.006220</exchangeRate>
+		<inverseRate>0.035706</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.035706 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 68.791798 HNL</title>
+		<link>http://www.floatrates.com/kwd/hnl/</link>
+		<description>1 Kuwaiti Dinar = 68.791798 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>68.791798</exchangeRate>
+		<inverseRate>0.014537</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.014537 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 386.911910 JMD</title>
+		<link>http://www.floatrates.com/kwd/jmd/</link>
+		<description>1 Kuwaiti Dinar = 386.911910 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>386.911910</exchangeRate>
+		<inverseRate>0.002585</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.002585 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 28.721978 MAD</title>
+		<link>http://www.floatrates.com/kwd/mad/</link>
+		<description>1 Kuwaiti Dinar = 28.721978 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>28.721978</exchangeRate>
+		<inverseRate>0.034817</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.034817 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3,451.662178 MMK</title>
+		<link>http://www.floatrates.com/kwd/mmk/</link>
+		<description>1 Kuwaiti Dinar = 3,451.662178 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>3,451.662178</exchangeRate>
+		<inverseRate>0.000290</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.000290 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 6.280879 ANG</title>
+		<link>http://www.floatrates.com/kwd/ang/</link>
+		<description>1 Kuwaiti Dinar = 6.280879 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>6.280879</exchangeRate>
+		<inverseRate>0.159213</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 0.159213 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 3.558719 PAB</title>
+		<link>http://www.floatrates.com/kwd/pab/</link>
+		<description>1 Kuwaiti Dinar = 3.558719 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>3.558719</exchangeRate>
+		<inverseRate>0.281000</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 0.281000 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 9.984402 PEN</title>
+		<link>http://www.floatrates.com/kwd/pen/</link>
+		<description>1 Kuwaiti Dinar = 9.984402 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>9.984402</exchangeRate>
+		<inverseRate>0.100156</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.100156 Kuwaiti Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 KWD = 296.302301 RSD</title>
+		<link>http://www.floatrates.com/kwd/rsd/</link>
+		<description>1 Kuwaiti Dinar = 296.302301 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KWD</baseCurrency>
+		<baseName>Kuwaiti Dinar</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>296.302301</exchangeRate>
+		<inverseRate>0.003375</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.003375 Kuwaiti Dinar</inverseDescription>
+	</item>
+</channel>
+

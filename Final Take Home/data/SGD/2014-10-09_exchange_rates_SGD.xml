@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Singapore Dollar (SGD) (9 Oct 2014)</title>
+	<link>http://www.floatrates.com/currency/sgd/</link>
+	<xmlLink>http://www.floatrates.com/daily/sgd.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Singapore Dollar (SGD) from the Float Rates. Published at 9 Oct 2014.</description>
+	<language>en</language>
+	<baseCurrency>SGD</baseCurrency>
+	<pubDate>Thu, 9 Oct 2014</pubDate>
+	<lastBuildDate>Thu, 9 Oct 2014</lastBuildDate>
+	
+	<item>
+		<title>1 SGD = 0.787587 USD</title>
+		<link>http://www.floatrates.com/sgd/usd/</link>
+		<description>1 Singapore Dollar = 0.787587 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.787587</exchangeRate>
+		<inverseRate>1.269701</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 1.269701 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 4.832198 CNY</title>
+		<link>http://www.floatrates.com/sgd/cny/</link>
+		<description>1 Singapore Dollar = 4.832198 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>4.832198</exchangeRate>
+		<inverseRate>0.206945</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.206945 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 85.062500 JPY</title>
+		<link>http://www.floatrates.com/sgd/jpy/</link>
+		<description>1 Singapore Dollar = 85.062500 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>85.062500</exchangeRate>
+		<inverseRate>0.011756</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.011756 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.618385 EUR</title>
+		<link>http://www.floatrates.com/sgd/eur/</link>
+		<description>1 Singapore Dollar = 0.618385 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.618385</exchangeRate>
+		<inverseRate>1.617116</inverseRate>
+		<inverseDescription>1 Euro = 1.617116 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 840.996378 KRW</title>
+		<link>http://www.floatrates.com/sgd/krw/</link>
+		<description>1 Singapore Dollar = 840.996378 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>840.996378</exchangeRate>
+		<inverseRate>0.001189</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.001189 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.000000 SGD</title>
+		<link>http://www.floatrates.com/sgd/sgd/</link>
+		<description>1 Singapore Dollar = 1.000000 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 1.000000 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.486774 GBP</title>
+		<link>http://www.floatrates.com/sgd/gbp/</link>
+		<description>1 Singapore Dollar = 0.486774 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.486774</exchangeRate>
+		<inverseRate>2.054340</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 2.054340 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.995904 NZD</title>
+		<link>http://www.floatrates.com/sgd/nzd/</link>
+		<description>1 Singapore Dollar = 0.995904 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.995904</exchangeRate>
+		<inverseRate>1.004113</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 1.004113 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 25.544101 THB</title>
+		<link>http://www.floatrates.com/sgd/thb/</link>
+		<description>1 Singapore Dollar = 25.544101 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>25.544101</exchangeRate>
+		<inverseRate>0.039148</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.039148 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.550391 MYR</title>
+		<link>http://www.floatrates.com/sgd/myr/</link>
+		<description>1 Singapore Dollar = 2.550391 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>2.550391</exchangeRate>
+		<inverseRate>0.392097</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.392097 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 48.040789 INR</title>
+		<link>http://www.floatrates.com/sgd/inr/</link>
+		<description>1 Singapore Dollar = 48.040789 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>48.040789</exchangeRate>
+		<inverseRate>0.020816</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.020816 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 9,608.428747 IDR</title>
+		<link>http://www.floatrates.com/sgd/idr/</link>
+		<description>1 Singapore Dollar = 9,608.428747 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>9,608.428747</exchangeRate>
+		<inverseRate>0.000104</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000104 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 23.920769 TWD</title>
+		<link>http://www.floatrates.com/sgd/twd/</link>
+		<description>1 Singapore Dollar = 23.920769 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>23.920769</exchangeRate>
+		<inverseRate>0.041805</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.041805 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 6.108674 HKD</title>
+		<link>http://www.floatrates.com/sgd/hkd/</link>
+		<description>1 Singapore Dollar = 6.108674 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>6.108674</exchangeRate>
+		<inverseRate>0.163702</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.163702 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.892721 AED</title>
+		<link>http://www.floatrates.com/sgd/aed/</link>
+		<description>1 Singapore Dollar = 2.892721 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>2.892721</exchangeRate>
+		<inverseRate>0.345695</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.345695 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.749013 CHF</title>
+		<link>http://www.floatrates.com/sgd/chf/</link>
+		<description>1 Singapore Dollar = 0.749013 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.749013</exchangeRate>
+		<inverseRate>1.335091</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.335091 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.875780 CAD</title>
+		<link>http://www.floatrates.com/sgd/cad/</link>
+		<description>1 Singapore Dollar = 0.875780 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.875780</exchangeRate>
+		<inverseRate>1.141839</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1.141839 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 35.185045 PHP</title>
+		<link>http://www.floatrates.com/sgd/php/</link>
+		<description>1 Singapore Dollar = 35.185045 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>35.185045</exchangeRate>
+		<inverseRate>0.028421</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.028421 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 8.695273 ZAR</title>
+		<link>http://www.floatrates.com/sgd/zar/</link>
+		<description>1 Singapore Dollar = 8.695273 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>8.695273</exchangeRate>
+		<inverseRate>0.115005</inverseRate>
+		<inverseDescription>1 South African Rand = 0.115005 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.890067 AUD</title>
+		<link>http://www.floatrates.com/sgd/aud/</link>
+		<description>1 Singapore Dollar = 0.890067 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.890067</exchangeRate>
+		<inverseRate>1.123511</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1.123511 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 65.677973 DZD</title>
+		<link>http://www.floatrates.com/sgd/dzd/</link>
+		<description>1 Singapore Dollar = 65.677973 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>65.677973</exchangeRate>
+		<inverseRate>0.015226</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.015226 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 7.192574 BWP</title>
+		<link>http://www.floatrates.com/sgd/bwp/</link>
+		<description>1 Singapore Dollar = 7.192574 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>7.192574</exchangeRate>
+		<inverseRate>0.139032</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.139032 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.000078 BND</title>
+		<link>http://www.floatrates.com/sgd/bnd/</link>
+		<description>1 Singapore Dollar = 1.000078 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.000078</exchangeRate>
+		<inverseRate>0.999922</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.999922 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 467.363667 CLP</title>
+		<link>http://www.floatrates.com/sgd/clp/</link>
+		<description>1 Singapore Dollar = 467.363667 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>467.363667</exchangeRate>
+		<inverseRate>0.002140</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.002140 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1,609.076477 COP</title>
+		<link>http://www.floatrates.com/sgd/cop/</link>
+		<description>1 Singapore Dollar = 1,609.076477 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1,609.076477</exchangeRate>
+		<inverseRate>0.000621</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000621 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 16.988146 CZK</title>
+		<link>http://www.floatrates.com/sgd/czk/</link>
+		<description>1 Singapore Dollar = 16.988146 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>16.988146</exchangeRate>
+		<inverseRate>0.058865</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.058865 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 4.604661 DKK</title>
+		<link>http://www.floatrates.com/sgd/dkk/</link>
+		<description>1 Singapore Dollar = 4.604661 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>4.604661</exchangeRate>
+		<inverseRate>0.217171</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.217171 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 189.279829 HUF</title>
+		<link>http://www.floatrates.com/sgd/huf/</link>
+		<description>1 Singapore Dollar = 189.279829 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>189.279829</exchangeRate>
+		<inverseRate>0.005283</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.005283 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 94.555781 ISK</title>
+		<link>http://www.floatrates.com/sgd/isk/</link>
+		<description>1 Singapore Dollar = 94.555781 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>94.555781</exchangeRate>
+		<inverseRate>0.010576</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.010576 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 143.183297 KZT</title>
+		<link>http://www.floatrates.com/sgd/kzt/</link>
+		<description>1 Singapore Dollar = 143.183297 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>143.183297</exchangeRate>
+		<inverseRate>0.006984</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.006984 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.226983 KWD</title>
+		<link>http://www.floatrates.com/sgd/kwd/</link>
+		<description>1 Singapore Dollar = 0.226983 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.226983</exchangeRate>
+		<inverseRate>4.405625</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 4.405625 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.521933 LYD</title>
+		<link>http://www.floatrates.com/sgd/lyd/</link>
+		<description>1 Singapore Dollar = 1.521933 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>1.521933</exchangeRate>
+		<inverseRate>0.657059</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.657059 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 24.764410 MUR</title>
+		<link>http://www.floatrates.com/sgd/mur/</link>
+		<description>1 Singapore Dollar = 24.764410 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>24.764410</exchangeRate>
+		<inverseRate>0.040381</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.040381 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 77.372536 NPR</title>
+		<link>http://www.floatrates.com/sgd/npr/</link>
+		<description>1 Singapore Dollar = 77.372536 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>77.372536</exchangeRate>
+		<inverseRate>0.012924</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.012924 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 5.071316 NOK</title>
+		<link>http://www.floatrates.com/sgd/nok/</link>
+		<description>1 Singapore Dollar = 5.071316 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>5.071316</exchangeRate>
+		<inverseRate>0.197187</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.197187 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.302827 OMR</title>
+		<link>http://www.floatrates.com/sgd/omr/</link>
+		<description>1 Singapore Dollar = 0.302827 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.302827</exchangeRate>
+		<inverseRate>3.302214</inverseRate>
+		<inverseDescription>1 Omani Rial = 3.302214 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 80.953106 PKR</title>
+		<link>http://www.floatrates.com/sgd/pkr/</link>
+		<description>1 Singapore Dollar = 80.953106 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>80.953106</exchangeRate>
+		<inverseRate>0.012353</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.012353 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.584985 PLN</title>
+		<link>http://www.floatrates.com/sgd/pln/</link>
+		<description>1 Singapore Dollar = 2.584985 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>2.584985</exchangeRate>
+		<inverseRate>0.386850</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.386850 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.866816 QAR</title>
+		<link>http://www.floatrates.com/sgd/qar/</link>
+		<description>1 Singapore Dollar = 2.866816 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>2.866816</exchangeRate>
+		<inverseRate>0.348819</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.348819 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 31.519110 RUB</title>
+		<link>http://www.floatrates.com/sgd/rub/</link>
+		<description>1 Singapore Dollar = 31.519110 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>31.519110</exchangeRate>
+		<inverseRate>0.031727</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.031727 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.953451 SAR</title>
+		<link>http://www.floatrates.com/sgd/sar/</link>
+		<description>1 Singapore Dollar = 2.953451 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>2.953451</exchangeRate>
+		<inverseRate>0.338587</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.338587 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 102.650373 LKR</title>
+		<link>http://www.floatrates.com/sgd/lkr/</link>
+		<description>1 Singapore Dollar = 102.650373 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>102.650373</exchangeRate>
+		<inverseRate>0.009742</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.009742 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 5.653765 SEK</title>
+		<link>http://www.floatrates.com/sgd/sek/</link>
+		<description>1 Singapore Dollar = 5.653765 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>5.653765</exchangeRate>
+		<inverseRate>0.176873</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.176873 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 4.994107 TTD</title>
+		<link>http://www.floatrates.com/sgd/ttd/</link>
+		<description>1 Singapore Dollar = 4.994107 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>4.994107</exchangeRate>
+		<inverseRate>0.200236</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.200236 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.415262 TND</title>
+		<link>http://www.floatrates.com/sgd/tnd/</link>
+		<description>1 Singapore Dollar = 1.415262 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>1.415262</exchangeRate>
+		<inverseRate>0.706583</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.706583 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 4.955237 VEF</title>
+		<link>http://www.floatrates.com/sgd/vef/</link>
+		<description>1 Singapore Dollar = 4.955237 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>4.955237</exchangeRate>
+		<inverseRate>0.201807</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.201807 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.206897 BGN</title>
+		<link>http://www.floatrates.com/sgd/bgn/</link>
+		<description>1 Singapore Dollar = 1.206897 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.206897</exchangeRate>
+		<inverseRate>0.828571</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.828571 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.130675 LTL</title>
+		<link>http://www.floatrates.com/sgd/ltl/</link>
+		<description>1 Singapore Dollar = 2.130675 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>2.130675</exchangeRate>
+		<inverseRate>0.469335</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.469335 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.727299 RON</title>
+		<link>http://www.floatrates.com/sgd/ron/</link>
+		<description>1 Singapore Dollar = 2.727299 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>2.727299</exchangeRate>
+		<inverseRate>0.366663</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.366663 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 4.726920 HRK</title>
+		<link>http://www.floatrates.com/sgd/hrk/</link>
+		<description>1 Singapore Dollar = 4.726920 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>4.726920</exchangeRate>
+		<inverseRate>0.211554</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.211554 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.782997 TRY</title>
+		<link>http://www.floatrates.com/sgd/try/</link>
+		<description>1 Singapore Dollar = 1.782997 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.782997</exchangeRate>
+		<inverseRate>0.560853</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.560853 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.877687 BRL</title>
+		<link>http://www.floatrates.com/sgd/brl/</link>
+		<description>1 Singapore Dollar = 1.877687 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.877687</exchangeRate>
+		<inverseRate>0.532570</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.532570 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.915439 ILS</title>
+		<link>http://www.floatrates.com/sgd/ils/</link>
+		<description>1 Singapore Dollar = 2.915439 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>2.915439</exchangeRate>
+		<inverseRate>0.343001</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.343001 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 10.532587 MXN</title>
+		<link>http://www.floatrates.com/sgd/mxn/</link>
+		<description>1 Singapore Dollar = 10.532587 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>10.532587</exchangeRate>
+		<inverseRate>0.094943</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.094943 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 6.672667 ARS</title>
+		<link>http://www.floatrates.com/sgd/ars/</link>
+		<description>1 Singapore Dollar = 6.672667 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>6.672667</exchangeRate>
+		<inverseRate>0.149865</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.149865 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.787587 BSD</title>
+		<link>http://www.floatrates.com/sgd/bsd/</link>
+		<description>1 Singapore Dollar = 0.787587 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.787587</exchangeRate>
+		<inverseRate>1.269701</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 1.269701 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 407.291836 XAF</title>
+		<link>http://www.floatrates.com/sgd/xaf/</link>
+		<description>1 Singapore Dollar = 407.291836 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>407.291836</exchangeRate>
+		<inverseRate>0.002455</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.002455 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 74.103066 XPF</title>
+		<link>http://www.floatrates.com/sgd/xpf/</link>
+		<description>1 Singapore Dollar = 74.103066 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>74.103066</exchangeRate>
+		<inverseRate>0.013495</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.013495 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.095285 XCD</title>
+		<link>http://www.floatrates.com/sgd/xcd/</link>
+		<description>1 Singapore Dollar = 2.095285 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>2.095285</exchangeRate>
+		<inverseRate>0.477262</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 0.477262 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.508524 FJD</title>
+		<link>http://www.floatrates.com/sgd/fjd/</link>
+		<description>1 Singapore Dollar = 1.508524 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>1.508524</exchangeRate>
+		<inverseRate>0.662899</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.662899 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.516081 GHS</title>
+		<link>http://www.floatrates.com/sgd/ghs/</link>
+		<description>1 Singapore Dollar = 2.516081 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>2.516081</exchangeRate>
+		<inverseRate>0.397444</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.397444 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 6.175212 GTQ</title>
+		<link>http://www.floatrates.com/sgd/gtq/</link>
+		<description>1 Singapore Dollar = 6.175212 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>6.175212</exchangeRate>
+		<inverseRate>0.161938</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.161938 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 16.742083 HNL</title>
+		<link>http://www.floatrates.com/sgd/hnl/</link>
+		<description>1 Singapore Dollar = 16.742083 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>16.742083</exchangeRate>
+		<inverseRate>0.059730</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.059730 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 88.529192 JMD</title>
+		<link>http://www.floatrates.com/sgd/jmd/</link>
+		<description>1 Singapore Dollar = 88.529192 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>88.529192</exchangeRate>
+		<inverseRate>0.011296</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.011296 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 6.881836 MAD</title>
+		<link>http://www.floatrates.com/sgd/mad/</link>
+		<description>1 Singapore Dollar = 6.881836 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>6.881836</exchangeRate>
+		<inverseRate>0.145310</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.145310 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 777.098436 MMK</title>
+		<link>http://www.floatrates.com/sgd/mmk/</link>
+		<description>1 Singapore Dollar = 777.098436 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>777.098436</exchangeRate>
+		<inverseRate>0.001287</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.001287 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 1.386114 ANG</title>
+		<link>http://www.floatrates.com/sgd/ang/</link>
+		<description>1 Singapore Dollar = 1.386114 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>1.386114</exchangeRate>
+		<inverseRate>0.721441</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 0.721441 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 0.787587 PAB</title>
+		<link>http://www.floatrates.com/sgd/pab/</link>
+		<description>1 Singapore Dollar = 0.787587 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.787587</exchangeRate>
+		<inverseRate>1.269701</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 1.269701 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 2.289174 PEN</title>
+		<link>http://www.floatrates.com/sgd/pen/</link>
+		<description>1 Singapore Dollar = 2.289174 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>2.289174</exchangeRate>
+		<inverseRate>0.436839</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.436839 Singapore Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 SGD = 74.103066 RSD</title>
+		<link>http://www.floatrates.com/sgd/rsd/</link>
+		<description>1 Singapore Dollar = 74.103066 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SGD</baseCurrency>
+		<baseName>Singapore Dollar</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>74.103066</exchangeRate>
+		<inverseRate>0.013495</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.013495 Singapore Dollar</inverseDescription>
+	</item>
+</channel>
+

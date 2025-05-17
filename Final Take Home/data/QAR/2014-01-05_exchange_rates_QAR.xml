@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Qatari Rial (QAR) (3 Jan 2014)</title>
+	<link>http://www.floatrates.com/currency/qar/</link>
+	<xmlLink>http://www.floatrates.com/daily/qar.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Qatari Rial (QAR) from the Float Rates. Published at 3 Jan 2014.</description>
+	<language>en</language>
+	<baseCurrency>QAR</baseCurrency>
+	<pubDate>Fri, 3 Jan 2014</pubDate>
+	<lastBuildDate>Fri, 3 Jan 2014</lastBuildDate>
+	
+	<item>
+		<title>1 QAR = 0.274725 USD</title>
+		<link>http://www.floatrates.com/qar/usd/</link>
+		<description>1 Qatari Rial = 0.274725 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.274725</exchangeRate>
+		<inverseRate>3.640000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 3.640000 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.666876 CNY</title>
+		<link>http://www.floatrates.com/qar/cny/</link>
+		<description>1 Qatari Rial = 1.666876 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.666876</exchangeRate>
+		<inverseRate>0.599925</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.599925 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 28.672085 JPY</title>
+		<link>http://www.floatrates.com/qar/jpy/</link>
+		<description>1 Qatari Rial = 28.672085 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>28.672085</exchangeRate>
+		<inverseRate>0.034877</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.034877 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.201498 EUR</title>
+		<link>http://www.floatrates.com/qar/eur/</link>
+		<description>1 Qatari Rial = 0.201498 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.201498</exchangeRate>
+		<inverseRate>4.962835</inverseRate>
+		<inverseDescription>1 Euro = 4.962835 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 289.377648 KRW</title>
+		<link>http://www.floatrates.com/qar/krw/</link>
+		<description>1 Qatari Rial = 289.377648 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>289.377648</exchangeRate>
+		<inverseRate>0.003456</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.003456 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.347948 SGD</title>
+		<link>http://www.floatrates.com/qar/sgd/</link>
+		<description>1 Qatari Rial = 0.347948 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.347948</exchangeRate>
+		<inverseRate>2.873992</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 2.873992 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.167109 GBP</title>
+		<link>http://www.floatrates.com/qar/gbp/</link>
+		<description>1 Qatari Rial = 0.167109 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.167109</exchangeRate>
+		<inverseRate>5.984106</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 5.984106 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.333063 NZD</title>
+		<link>http://www.floatrates.com/qar/nzd/</link>
+		<description>1 Qatari Rial = 0.333063 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.333063</exchangeRate>
+		<inverseRate>3.002431</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 3.002431 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 9.067761 THB</title>
+		<link>http://www.floatrates.com/qar/thb/</link>
+		<description>1 Qatari Rial = 9.067761 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>9.067761</exchangeRate>
+		<inverseRate>0.110281</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.110281 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.903782 MYR</title>
+		<link>http://www.floatrates.com/qar/myr/</link>
+		<description>1 Qatari Rial = 0.903782 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.903782</exchangeRate>
+		<inverseRate>1.106461</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 1.106461 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 17.114685 INR</title>
+		<link>http://www.floatrates.com/qar/inr/</link>
+		<description>1 Qatari Rial = 17.114685 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>17.114685</exchangeRate>
+		<inverseRate>0.058429</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.058429 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 3,352.148355 IDR</title>
+		<link>http://www.floatrates.com/qar/idr/</link>
+		<description>1 Qatari Rial = 3,352.148355 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>3,352.148355</exchangeRate>
+		<inverseRate>0.000298</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000298 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 8.228702 TWD</title>
+		<link>http://www.floatrates.com/qar/twd/</link>
+		<description>1 Qatari Rial = 8.228702 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>8.228702</exchangeRate>
+		<inverseRate>0.121526</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.121526 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 2.130262 HKD</title>
+		<link>http://www.floatrates.com/qar/hkd/</link>
+		<description>1 Qatari Rial = 2.130262 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.130262</exchangeRate>
+		<inverseRate>0.469426</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.469426 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.008922 AED</title>
+		<link>http://www.floatrates.com/qar/aed/</link>
+		<description>1 Qatari Rial = 1.008922 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>1.008922</exchangeRate>
+		<inverseRate>0.991157</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.991157 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.247772 CHF</title>
+		<link>http://www.floatrates.com/qar/chf/</link>
+		<description>1 Qatari Rial = 0.247772 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.247772</exchangeRate>
+		<inverseRate>4.035964</inverseRate>
+		<inverseDescription>1 Swiss Franc = 4.035964 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.291905 CAD</title>
+		<link>http://www.floatrates.com/qar/cad/</link>
+		<description>1 Qatari Rial = 0.291905 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.291905</exchangeRate>
+		<inverseRate>3.425771</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 3.425771 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 12.272841 PHP</title>
+		<link>http://www.floatrates.com/qar/php/</link>
+		<description>1 Qatari Rial = 12.272841 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>12.272841</exchangeRate>
+		<inverseRate>0.081481</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.081481 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 2.920118 ZAR</title>
+		<link>http://www.floatrates.com/qar/zar/</link>
+		<description>1 Qatari Rial = 2.920118 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>2.920118</exchangeRate>
+		<inverseRate>0.342452</inverseRate>
+		<inverseDescription>1 South African Rand = 0.342452 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.305863 AUD</title>
+		<link>http://www.floatrates.com/qar/aud/</link>
+		<description>1 Qatari Rial = 0.305863 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.305863</exchangeRate>
+		<inverseRate>3.269439</inverseRate>
+		<inverseDescription>1 Australian Dollar = 3.269439 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 21.485962 DZD</title>
+		<link>http://www.floatrates.com/qar/dzd/</link>
+		<description>1 Qatari Rial = 21.485962 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>21.485962</exchangeRate>
+		<inverseRate>0.046542</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.046542 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 2.420487 BWP</title>
+		<link>http://www.floatrates.com/qar/bwp/</link>
+		<description>1 Qatari Rial = 2.420487 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>2.420487</exchangeRate>
+		<inverseRate>0.413140</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.413140 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.348159 BND</title>
+		<link>http://www.floatrates.com/qar/bnd/</link>
+		<description>1 Qatari Rial = 0.348159 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.348159</exchangeRate>
+		<inverseRate>2.872248</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 2.872248 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 145.489515 CLP</title>
+		<link>http://www.floatrates.com/qar/clp/</link>
+		<description>1 Qatari Rial = 145.489515 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>145.489515</exchangeRate>
+		<inverseRate>0.006873</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.006873 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 532.856198 COP</title>
+		<link>http://www.floatrates.com/qar/cop/</link>
+		<description>1 Qatari Rial = 532.856198 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>532.856198</exchangeRate>
+		<inverseRate>0.001877</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.001877 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 5.553294 CZK</title>
+		<link>http://www.floatrates.com/qar/czk/</link>
+		<description>1 Qatari Rial = 5.553294 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>5.553294</exchangeRate>
+		<inverseRate>0.180073</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.180073 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.504183 DKK</title>
+		<link>http://www.floatrates.com/qar/dkk/</link>
+		<description>1 Qatari Rial = 1.504183 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.504183</exchangeRate>
+		<inverseRate>0.664813</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.664813 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 60.219554 HUF</title>
+		<link>http://www.floatrates.com/qar/huf/</link>
+		<description>1 Qatari Rial = 60.219554 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>60.219554</exchangeRate>
+		<inverseRate>0.016606</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.016606 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 31.819976 ISK</title>
+		<link>http://www.floatrates.com/qar/isk/</link>
+		<description>1 Qatari Rial = 31.819976 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>31.819976</exchangeRate>
+		<inverseRate>0.031427</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.031427 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.963044 ILS</title>
+		<link>http://www.floatrates.com/qar/ils/</link>
+		<description>1 Qatari Rial = 0.963044 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.963044</exchangeRate>
+		<inverseRate>1.038375</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.038375 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 42.324176 KZT</title>
+		<link>http://www.floatrates.com/qar/kzt/</link>
+		<description>1 Qatari Rial = 42.324176 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>42.324176</exchangeRate>
+		<inverseRate>0.023627</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.023627 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.530879 LYD</title>
+		<link>http://www.floatrates.com/qar/lyd/</link>
+		<description>1 Qatari Rial = 0.530879 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.530879</exchangeRate>
+		<inverseRate>1.883668</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 1.883668 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 8.272885 MUR</title>
+		<link>http://www.floatrates.com/qar/mur/</link>
+		<description>1 Qatari Rial = 8.272885 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>8.272885</exchangeRate>
+		<inverseRate>0.120877</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.120877 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 27.368132 NPR</title>
+		<link>http://www.floatrates.com/qar/npr/</link>
+		<description>1 Qatari Rial = 27.368132 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>27.368132</exchangeRate>
+		<inverseRate>0.036539</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.036539 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.685486 NOK</title>
+		<link>http://www.floatrates.com/qar/nok/</link>
+		<description>1 Qatari Rial = 1.685486 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>1.685486</exchangeRate>
+		<inverseRate>0.593301</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.593301 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.105632 OMR</title>
+		<link>http://www.floatrates.com/qar/omr/</link>
+		<description>1 Qatari Rial = 0.105632 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.105632</exchangeRate>
+		<inverseRate>9.466840</inverseRate>
+		<inverseDescription>1 Omani Rial = 9.466840 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 28.958494 PKR</title>
+		<link>http://www.floatrates.com/qar/pkr/</link>
+		<description>1 Qatari Rial = 28.958494 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>28.958494</exchangeRate>
+		<inverseRate>0.034532</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.034532 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.840123 PLN</title>
+		<link>http://www.floatrates.com/qar/pln/</link>
+		<description>1 Qatari Rial = 0.840123 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.840123</exchangeRate>
+		<inverseRate>1.190301</inverseRate>
+		<inverseDescription>1 Polish Zloty = 1.190301 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.000000 QAR</title>
+		<link>http://www.floatrates.com/qar/qar/</link>
+		<description>1 Qatari Rial = 1.000000 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.000000 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.030220 SAR</title>
+		<link>http://www.floatrates.com/qar/sar/</link>
+		<description>1 Qatari Rial = 1.030220 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.030220</exchangeRate>
+		<inverseRate>0.970667</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.970667 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 35.905902 LKR</title>
+		<link>http://www.floatrates.com/qar/lkr/</link>
+		<description>1 Qatari Rial = 35.905902 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>35.905902</exchangeRate>
+		<inverseRate>0.027851</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.027851 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.789134 SEK</title>
+		<link>http://www.floatrates.com/qar/sek/</link>
+		<description>1 Qatari Rial = 1.789134 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>1.789134</exchangeRate>
+		<inverseRate>0.558930</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.558930 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.765583 TTD</title>
+		<link>http://www.floatrates.com/qar/ttd/</link>
+		<description>1 Qatari Rial = 1.765583 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.765583</exchangeRate>
+		<inverseRate>0.566385</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.566385 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.728430 VEF</title>
+		<link>http://www.floatrates.com/qar/vef/</link>
+		<description>1 Qatari Rial = 1.728430 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>1.728430</exchangeRate>
+		<inverseRate>0.578560</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.578560 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.394094 BGN</title>
+		<link>http://www.floatrates.com/qar/bgn/</link>
+		<description>1 Qatari Rial = 0.394094 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.394094</exchangeRate>
+		<inverseRate>2.537466</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 2.537466 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.695740 LTL</title>
+		<link>http://www.floatrates.com/qar/ltl/</link>
+		<description>1 Qatari Rial = 0.695740 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.695740</exchangeRate>
+		<inverseRate>1.437319</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 1.437319 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.906249 RON</title>
+		<link>http://www.floatrates.com/qar/ron/</link>
+		<description>1 Qatari Rial = 0.906249 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.906249</exchangeRate>
+		<inverseRate>1.103449</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 1.103449 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.539209 HRK</title>
+		<link>http://www.floatrates.com/qar/hrk/</link>
+		<description>1 Qatari Rial = 1.539209 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>1.539209</exchangeRate>
+		<inverseRate>0.649684</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.649684 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 9.112106 RUB</title>
+		<link>http://www.floatrates.com/qar/rub/</link>
+		<description>1 Qatari Rial = 9.112106 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>9.112106</exchangeRate>
+		<inverseRate>0.109744</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.109744 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.598369 TRY</title>
+		<link>http://www.floatrates.com/qar/try/</link>
+		<description>1 Qatari Rial = 0.598369 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.598369</exchangeRate>
+		<inverseRate>1.671209</inverseRate>
+		<inverseDescription>1 Turkish Lira = 1.671209 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.653971 BRL</title>
+		<link>http://www.floatrates.com/qar/brl/</link>
+		<description>1 Qatari Rial = 0.653971 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.653971</exchangeRate>
+		<inverseRate>1.529120</inverseRate>
+		<inverseDescription>1 Brazilian Real = 1.529120 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 3.597097 MXN</title>
+		<link>http://www.floatrates.com/qar/mxn/</link>
+		<description>1 Qatari Rial = 3.597097 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>3.597097</exchangeRate>
+		<inverseRate>0.278002</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.278002 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 1.800993 ARS</title>
+		<link>http://www.floatrates.com/qar/ars/</link>
+		<description>1 Qatari Rial = 1.800993 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>1.800993</exchangeRate>
+		<inverseRate>0.555249</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.555249 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.274725 BSD</title>
+		<link>http://www.floatrates.com/qar/bsd/</link>
+		<description>1 Qatari Rial = 0.274725 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.274725</exchangeRate>
+		<inverseRate>3.640000</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 3.640000 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 132.475461 XAF</title>
+		<link>http://www.floatrates.com/qar/xaf/</link>
+		<description>1 Qatari Rial = 132.475461 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>132.475461</exchangeRate>
+		<inverseRate>0.007549</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.007549 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 24.097390 XPF</title>
+		<link>http://www.floatrates.com/qar/xpf/</link>
+		<description>1 Qatari Rial = 24.097390 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>24.097390</exchangeRate>
+		<inverseRate>0.041498</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.041498 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.733524 XCD</title>
+		<link>http://www.floatrates.com/qar/xcd/</link>
+		<description>1 Qatari Rial = 0.733524 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.733524</exchangeRate>
+		<inverseRate>1.363282</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 1.363282 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.514344 FJD</title>
+		<link>http://www.floatrates.com/qar/fjd/</link>
+		<description>1 Qatari Rial = 0.514344 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.514344</exchangeRate>
+		<inverseRate>1.944222</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 1.944222 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.641385 GHS</title>
+		<link>http://www.floatrates.com/qar/ghs/</link>
+		<description>1 Qatari Rial = 0.641385 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>0.641385</exchangeRate>
+		<inverseRate>1.559125</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 1.559125 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 2.180832 GTQ</title>
+		<link>http://www.floatrates.com/qar/gtq/</link>
+		<description>1 Qatari Rial = 2.180832 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>2.180832</exchangeRate>
+		<inverseRate>0.458541</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.458541 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 5.551772 HNL</title>
+		<link>http://www.floatrates.com/qar/hnl/</link>
+		<description>1 Qatari Rial = 5.551772 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>5.551772</exchangeRate>
+		<inverseRate>0.180123</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.180123 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 29.099652 JMD</title>
+		<link>http://www.floatrates.com/qar/jmd/</link>
+		<description>1 Qatari Rial = 29.099652 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>29.099652</exchangeRate>
+		<inverseRate>0.034365</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.034365 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 2.262066 MAD</title>
+		<link>http://www.floatrates.com/qar/mad/</link>
+		<description>1 Qatari Rial = 2.262066 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>2.262066</exchangeRate>
+		<inverseRate>0.442074</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.442074 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 269.980097 MMK</title>
+		<link>http://www.floatrates.com/qar/mmk/</link>
+		<description>1 Qatari Rial = 269.980097 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>269.980097</exchangeRate>
+		<inverseRate>0.003704</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.003704 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.486936 ANG</title>
+		<link>http://www.floatrates.com/qar/ang/</link>
+		<description>1 Qatari Rial = 0.486936 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>0.486936</exchangeRate>
+		<inverseRate>2.053657</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 2.053657 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.274725 PAB</title>
+		<link>http://www.floatrates.com/qar/pab/</link>
+		<description>1 Qatari Rial = 0.274725 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.274725</exchangeRate>
+		<inverseRate>3.640000</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 3.640000 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.770963 PEN</title>
+		<link>http://www.floatrates.com/qar/pen/</link>
+		<description>1 Qatari Rial = 0.770963 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.770963</exchangeRate>
+		<inverseRate>1.297080</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 1.297080 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 23.214840 RSD</title>
+		<link>http://www.floatrates.com/qar/rsd/</link>
+		<description>1 Qatari Rial = 23.214840 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>23.214840</exchangeRate>
+		<inverseRate>0.043076</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.043076 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.455446 TND</title>
+		<link>http://www.floatrates.com/qar/tnd/</link>
+		<description>1 Qatari Rial = 0.455446 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.455446</exchangeRate>
+		<inverseRate>2.195652</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 2.195652 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.140003 LVL</title>
+		<link>http://www.floatrates.com/qar/lvl/</link>
+		<description>1 Qatari Rial = 0.140003 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.140003</exchangeRate>
+		<inverseRate>7.142708</inverseRate>
+		<inverseDescription>1 Latvian Lats = 7.142708 Qatari Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 QAR = 0.077541 KWD</title>
+		<link>http://www.floatrates.com/qar/kwd/</link>
+		<description>1 Qatari Rial = 0.077541 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>QAR</baseCurrency>
+		<baseName>Qatari Rial</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.077541</exchangeRate>
+		<inverseRate>12.896368</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 12.896368 Qatari Rial</inverseDescription>
+	</item>
+</channel>
+
