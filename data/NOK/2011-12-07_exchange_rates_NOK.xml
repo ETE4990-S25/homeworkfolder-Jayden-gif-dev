@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Norwegian Krone (NOK) (7 Dec 2011)</title>
+	<link>http://www.floatrates.com/currency/nok/</link>
+	<xmlLink>http://www.floatrates.com/daily/nok.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Norwegian Krone (NOK) from the Float Rates. Published at 7 Dec 2011.</description>
+	<language>en</language>
+	<baseCurrency>NOK</baseCurrency>
+	<pubDate>Wed, 7 Dec 2011</pubDate>
+	<lastBuildDate>Wed, 7 Dec 2011</lastBuildDate>
+	
+	<item>
+		<title>1 NOK = 0.129743 EUR</title>
+		<link>http://www.floatrates.com/nok/eur/</link>
+		<description>1 Norwegian Krone = 0.129743 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.129743</exchangeRate>
+		<inverseRate>7.707517</inverseRate>
+		<inverseDescription>1 Euro = 7.707517 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 13.503304 JPY</title>
+		<link>http://www.floatrates.com/nok/jpy/</link>
+		<description>1 Norwegian Krone = 13.503304 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>13.503304</exchangeRate>
+		<inverseRate>0.074056</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.074056 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.111162 GBP</title>
+		<link>http://www.floatrates.com/nok/gbp/</link>
+		<description>1 Norwegian Krone = 0.111162 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.111162</exchangeRate>
+		<inverseRate>8.995860</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 8.995860 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.173754 USD</title>
+		<link>http://www.floatrates.com/nok/usd/</link>
+		<description>1 Norwegian Krone = 0.173754 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.173754</exchangeRate>
+		<inverseRate>5.755265</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 5.755265 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.169272 AUD</title>
+		<link>http://www.floatrates.com/nok/aud/</link>
+		<description>1 Norwegian Krone = 0.169272 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.169272</exchangeRate>
+		<inverseRate>5.907641</inverseRate>
+		<inverseDescription>1 Australian Dollar = 5.907641 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.290891 BWP</title>
+		<link>http://www.floatrates.com/nok/bwp/</link>
+		<description>1 Norwegian Krone = 1.290891 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>1.290891</exchangeRate>
+		<inverseRate>0.774659</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.774659 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.222892 BND</title>
+		<link>http://www.floatrates.com/nok/bnd/</link>
+		<description>1 Norwegian Krone = 0.222892 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.222892</exchangeRate>
+		<inverseRate>4.486486</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 4.486486 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 88.677844 CLP</title>
+		<link>http://www.floatrates.com/nok/clp/</link>
+		<description>1 Norwegian Krone = 88.677844 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>88.677844</exchangeRate>
+		<inverseRate>0.011277</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.011277 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.103764 CNY</title>
+		<link>http://www.floatrates.com/nok/cny/</link>
+		<description>1 Norwegian Krone = 1.103764 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.103764</exchangeRate>
+		<inverseRate>0.905991</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.905991 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 335.741543 COP</title>
+		<link>http://www.floatrates.com/nok/cop/</link>
+		<description>1 Norwegian Krone = 335.741543 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>335.741543</exchangeRate>
+		<inverseRate>0.002978</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.002978 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 3.286269 CZK</title>
+		<link>http://www.floatrates.com/nok/czk/</link>
+		<description>1 Norwegian Krone = 3.286269 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>3.286269</exchangeRate>
+		<inverseRate>0.304296</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.304296 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.965503 DKK</title>
+		<link>http://www.floatrates.com/nok/dkk/</link>
+		<description>1 Norwegian Krone = 0.965503 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.965503</exchangeRate>
+		<inverseRate>1.035730</inverseRate>
+		<inverseDescription>1 Danish Krone = 1.035730 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 38.941513 HUF</title>
+		<link>http://www.floatrates.com/nok/huf/</link>
+		<description>1 Norwegian Krone = 38.941513 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>38.941513</exchangeRate>
+		<inverseRate>0.025680</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.025680 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 20.657391 ISK</title>
+		<link>http://www.floatrates.com/nok/isk/</link>
+		<description>1 Norwegian Krone = 20.657391 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>20.657391</exchangeRate>
+		<inverseRate>0.048409</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.048409 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 8.954105 INR</title>
+		<link>http://www.floatrates.com/nok/inr/</link>
+		<description>1 Norwegian Krone = 8.954105 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>8.954105</exchangeRate>
+		<inverseRate>0.111681</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.111681 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1,574.031752 IDR</title>
+		<link>http://www.floatrates.com/nok/idr/</link>
+		<description>1 Norwegian Krone = 1,574.031752 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1,574.031752</exchangeRate>
+		<inverseRate>0.000635</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000635 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.650212 ILS</title>
+		<link>http://www.floatrates.com/nok/ils/</link>
+		<description>1 Norwegian Krone = 0.650212 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.650212</exchangeRate>
+		<inverseRate>1.537960</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.537960 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 25.654772 KZT</title>
+		<link>http://www.floatrates.com/nok/kzt/</link>
+		<description>1 Norwegian Krone = 25.654772 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>25.654772</exchangeRate>
+		<inverseRate>0.038979</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.038979 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 196.232791 KRW</title>
+		<link>http://www.floatrates.com/nok/krw/</link>
+		<description>1 Norwegian Krone = 196.232791 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>196.232791</exchangeRate>
+		<inverseRate>0.005096</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.005096 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.048069 KWD</title>
+		<link>http://www.floatrates.com/nok/kwd/</link>
+		<description>1 Norwegian Krone = 0.048069 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.048069</exchangeRate>
+		<inverseRate>20.803414</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 20.803414 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.335762 LYD</title>
+		<link>http://www.floatrates.com/nok/lyd/</link>
+		<description>1 Norwegian Krone = 0.335762 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.335762</exchangeRate>
+		<inverseRate>2.978299</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 2.978299 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.543447 MYR</title>
+		<link>http://www.floatrates.com/nok/myr/</link>
+		<description>1 Norwegian Krone = 0.543447 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.543447</exchangeRate>
+		<inverseRate>1.840105</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 1.840105 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 5.060810 MUR</title>
+		<link>http://www.floatrates.com/nok/mur/</link>
+		<description>1 Norwegian Krone = 5.060810 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>5.060810</exchangeRate>
+		<inverseRate>0.197597</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.197597 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 14.291263 NPR</title>
+		<link>http://www.floatrates.com/nok/npr/</link>
+		<description>1 Norwegian Krone = 14.291263 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>14.291263</exchangeRate>
+		<inverseRate>0.069973</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.069973 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.222970 NZD</title>
+		<link>http://www.floatrates.com/nok/nzd/</link>
+		<description>1 Norwegian Krone = 0.222970 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.222970</exchangeRate>
+		<inverseRate>4.484910</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 4.484910 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.000000 NOK</title>
+		<link>http://www.floatrates.com/nok/nok/</link>
+		<description>1 Norwegian Krone = 1.000000 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 1.000000 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.066808 OMR</title>
+		<link>http://www.floatrates.com/nok/omr/</link>
+		<description>1 Norwegian Krone = 0.066808 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.066808</exchangeRate>
+		<inverseRate>14.968178</inverseRate>
+		<inverseDescription>1 Omani Rial = 14.968178 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 15.524213 PKR</title>
+		<link>http://www.floatrates.com/nok/pkr/</link>
+		<description>1 Norwegian Krone = 15.524213 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>15.524213</exchangeRate>
+		<inverseRate>0.064416</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.064416 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.579921 PLN</title>
+		<link>http://www.floatrates.com/nok/pln/</link>
+		<description>1 Norwegian Krone = 0.579921 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.579921</exchangeRate>
+		<inverseRate>1.724374</inverseRate>
+		<inverseDescription>1 Polish Zloty = 1.724374 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.632464 QAR</title>
+		<link>http://www.floatrates.com/nok/qar/</link>
+		<description>1 Norwegian Krone = 0.632464 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.632464</exchangeRate>
+		<inverseRate>1.581117</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.581117 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 5.425801 RUB</title>
+		<link>http://www.floatrates.com/nok/rub/</link>
+		<description>1 Norwegian Krone = 5.425801 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>5.425801</exchangeRate>
+		<inverseRate>0.184305</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.184305 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.651577 SAR</title>
+		<link>http://www.floatrates.com/nok/sar/</link>
+		<description>1 Norwegian Krone = 0.651577 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.651577</exchangeRate>
+		<inverseRate>1.534737</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.534737 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.223133 SGD</title>
+		<link>http://www.floatrates.com/nok/sgd/</link>
+		<description>1 Norwegian Krone = 0.223133 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.223133</exchangeRate>
+		<inverseRate>4.481632</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 4.481632 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.398021 ZAR</title>
+		<link>http://www.floatrates.com/nok/zar/</link>
+		<description>1 Norwegian Krone = 1.398021 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.398021</exchangeRate>
+		<inverseRate>0.715297</inverseRate>
+		<inverseDescription>1 South African Rand = 0.715297 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 19.779326 LKR</title>
+		<link>http://www.floatrates.com/nok/lkr/</link>
+		<description>1 Norwegian Krone = 19.779326 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>19.779326</exchangeRate>
+		<inverseRate>0.050558</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.050558 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.169070 SEK</title>
+		<link>http://www.floatrates.com/nok/sek/</link>
+		<description>1 Norwegian Krone = 1.169070 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>1.169070</exchangeRate>
+		<inverseRate>0.855381</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.855381 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.160979 CHF</title>
+		<link>http://www.floatrates.com/nok/chf/</link>
+		<description>1 Norwegian Krone = 0.160979 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.160979</exchangeRate>
+		<inverseRate>6.211978</inverseRate>
+		<inverseDescription>1 Swiss Franc = 6.211978 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 5.351454 THB</title>
+		<link>http://www.floatrates.com/nok/thb/</link>
+		<description>1 Norwegian Krone = 5.351454 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>5.351454</exchangeRate>
+		<inverseRate>0.186865</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.186865 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.109860 TTD</title>
+		<link>http://www.floatrates.com/nok/ttd/</link>
+		<description>1 Norwegian Krone = 1.109860 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.109860</exchangeRate>
+		<inverseRate>0.901015</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.901015 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.638153 AED</title>
+		<link>http://www.floatrates.com/nok/aed/</link>
+		<description>1 Norwegian Krone = 0.638153 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.638153</exchangeRate>
+		<inverseRate>1.567023</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.567023 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.745740 VEF</title>
+		<link>http://www.floatrates.com/nok/vef/</link>
+		<description>1 Norwegian Krone = 0.745740 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.745740</exchangeRate>
+		<inverseRate>1.340950</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 1.340950 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 5.240677 TWD</title>
+		<link>http://www.floatrates.com/nok/twd/</link>
+		<description>1 Norwegian Krone = 5.240677 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>5.240677</exchangeRate>
+		<inverseRate>0.190815</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.190815 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.350618 HKD</title>
+		<link>http://www.floatrates.com/nok/hkd/</link>
+		<description>1 Norwegian Krone = 1.350618 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>1.350618</exchangeRate>
+		<inverseRate>0.740402</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.740402 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.175432 CAD</title>
+		<link>http://www.floatrates.com/nok/cad/</link>
+		<description>1 Norwegian Krone = 0.175432 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.175432</exchangeRate>
+		<inverseRate>5.700213</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 5.700213 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.254039 BGN</title>
+		<link>http://www.floatrates.com/nok/bgn/</link>
+		<description>1 Norwegian Krone = 0.254039 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.254039</exchangeRate>
+		<inverseRate>3.936403</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 3.936403 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.448484 LTL</title>
+		<link>http://www.floatrates.com/nok/ltl/</link>
+		<description>1 Norwegian Krone = 0.448484 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.448484</exchangeRate>
+		<inverseRate>2.229732</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 2.229732 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.090637 LVL</title>
+		<link>http://www.floatrates.com/nok/lvl/</link>
+		<description>1 Norwegian Krone = 0.090637 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.090637</exchangeRate>
+		<inverseRate>11.032986</inverseRate>
+		<inverseDescription>1 Latvian Lats = 11.032986 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.564039 RON</title>
+		<link>http://www.floatrates.com/nok/ron/</link>
+		<description>1 Norwegian Krone = 0.564039 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.564039</exchangeRate>
+		<inverseRate>1.772927</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 1.772927 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.972282 HRK</title>
+		<link>http://www.floatrates.com/nok/hrk/</link>
+		<description>1 Norwegian Krone = 0.972282 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.972282</exchangeRate>
+		<inverseRate>1.028508</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 1.028508 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.318408 TRY</title>
+		<link>http://www.floatrates.com/nok/try/</link>
+		<description>1 Norwegian Krone = 0.318408 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.318408</exchangeRate>
+		<inverseRate>3.140620</inverseRate>
+		<inverseDescription>1 Turkish Lira = 3.140620 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.311526 BRL</title>
+		<link>http://www.floatrates.com/nok/brl/</link>
+		<description>1 Norwegian Krone = 0.311526 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.311526</exchangeRate>
+		<inverseRate>3.210010</inverseRate>
+		<inverseDescription>1 Brazilian Real = 3.210010 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 2.347647 MXN</title>
+		<link>http://www.floatrates.com/nok/mxn/</link>
+		<description>1 Norwegian Krone = 2.347647 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>2.347647</exchangeRate>
+		<inverseRate>0.425958</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.425958 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 7.523208 PHP</title>
+		<link>http://www.floatrates.com/nok/php/</link>
+		<description>1 Norwegian Krone = 7.523208 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>7.523208</exchangeRate>
+		<inverseRate>0.132922</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.132922 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.830564 ARS</title>
+		<link>http://www.floatrates.com/nok/ars/</link>
+		<description>1 Norwegian Krone = 0.830564 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>0.830564</exchangeRate>
+		<inverseRate>1.204002</inverseRate>
+		<inverseDescription>1 Argentine Peso = 1.204002 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.173754 BSD</title>
+		<link>http://www.floatrates.com/nok/bsd/</link>
+		<description>1 Norwegian Krone = 0.173754 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.173754</exchangeRate>
+		<inverseRate>5.755265</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 5.755265 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 85.150343 XAF</title>
+		<link>http://www.floatrates.com/nok/xaf/</link>
+		<description>1 Norwegian Krone = 85.150343 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>85.150343</exchangeRate>
+		<inverseRate>0.011744</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.011744 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 15.483241 XPF</title>
+		<link>http://www.floatrates.com/nok/xpf/</link>
+		<description>1 Norwegian Krone = 15.483241 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>15.483241</exchangeRate>
+		<inverseRate>0.064586</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.064586 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.463882 XCD</title>
+		<link>http://www.floatrates.com/nok/xcd/</link>
+		<description>1 Norwegian Krone = 0.463882 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.463882</exchangeRate>
+		<inverseRate>2.155719</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 2.155719 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.313024 FJD</title>
+		<link>http://www.floatrates.com/nok/fjd/</link>
+		<description>1 Norwegian Krone = 0.313024 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.313024</exchangeRate>
+		<inverseRate>3.194643</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 3.194643 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.284527 GHS</title>
+		<link>http://www.floatrates.com/nok/ghs/</link>
+		<description>1 Norwegian Krone = 0.284527 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>0.284527</exchangeRate>
+		<inverseRate>3.514600</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 3.514600 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.372790 GTQ</title>
+		<link>http://www.floatrates.com/nok/gtq/</link>
+		<description>1 Norwegian Krone = 1.372790 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>1.372790</exchangeRate>
+		<inverseRate>0.728444</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.728444 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 3.287402 HNL</title>
+		<link>http://www.floatrates.com/nok/hnl/</link>
+		<description>1 Norwegian Krone = 3.287402 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>3.287402</exchangeRate>
+		<inverseRate>0.304192</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.304192 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 14.968458 JMD</title>
+		<link>http://www.floatrates.com/nok/jmd/</link>
+		<description>1 Norwegian Krone = 14.968458 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>14.968458</exchangeRate>
+		<inverseRate>0.066807</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.066807 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 1.449869 MAD</title>
+		<link>http://www.floatrates.com/nok/mad/</link>
+		<description>1 Norwegian Krone = 1.449869 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>1.449869</exchangeRate>
+		<inverseRate>0.689717</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.689717 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.951134 MMK</title>
+		<link>http://www.floatrates.com/nok/mmk/</link>
+		<description>1 Norwegian Krone = 0.951134 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>0.951134</exchangeRate>
+		<inverseRate>1.051376</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 1.051376 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.304087 ANG</title>
+		<link>http://www.floatrates.com/nok/ang/</link>
+		<description>1 Norwegian Krone = 0.304087 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>0.304087</exchangeRate>
+		<inverseRate>3.288533</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 3.288533 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.173754 PAB</title>
+		<link>http://www.floatrates.com/nok/pab/</link>
+		<description>1 Norwegian Krone = 0.173754 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.173754</exchangeRate>
+		<inverseRate>5.755265</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 5.755265 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.468342 PEN</title>
+		<link>http://www.floatrates.com/nok/pen/</link>
+		<description>1 Norwegian Krone = 0.468342 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.468342</exchangeRate>
+		<inverseRate>2.135192</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 2.135192 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 13.382619 RSD</title>
+		<link>http://www.floatrates.com/nok/rsd/</link>
+		<description>1 Norwegian Krone = 13.382619 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>13.382619</exchangeRate>
+		<inverseRate>0.074724</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.074724 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 0.255644 TND</title>
+		<link>http://www.floatrates.com/nok/tnd/</link>
+		<description>1 Norwegian Krone = 0.255644 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.255644</exchangeRate>
+		<inverseRate>3.911683</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 3.911683 Norwegian Krone</inverseDescription>
+	</item>
+	<item>
+		<title>1 NOK = 12.949883 DZD</title>
+		<link>http://www.floatrates.com/nok/dzd/</link>
+		<description>1 Norwegian Krone = 12.949883 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>NOK</baseCurrency>
+		<baseName>Norwegian Krone</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>12.949883</exchangeRate>
+		<inverseRate>0.077221</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.077221 Norwegian Krone</inverseDescription>
+	</item>
+</channel>
+
